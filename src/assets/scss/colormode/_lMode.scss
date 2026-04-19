@@ -1,0 +1,26 @@
+@use "./../partials/_variables.scss" as *;
+
+body.light-mode {
+  background-color: $bg_body;
+  color: $light;
+
+  #header {
+    background-color: $bg_body2;
+    color: $light;
+  }
+
+  .container_filters_links {
+    background-color: $bg_body;
+    color: $light;
+  }
+
+  .container_filters_tools {
+    background-color: $bg_body;
+    color: $light;
+  }
+
+  .card_color {
+    background-color: $bg_body2;
+    color: $light;
+  }
+}

@@ -1,7 +1,25 @@
-<script setup>
-import HelloWorld from './components/HelloWorld.vue'
+<script>
+import Navbar from "./components/partials/Navbar.vue";
+import Header from "./components/main/Header.vue";
+import Footer from "./components/partials/Footer.vue";
+
+export default {
+  components: {
+    Navbar, Footer, Header,
+  },
+  data() {
+    return {
+      isDarkMode: false
+    };
+  },
+};
 </script>
 
 <template>
-  <HelloWorld />
+  <div id="app">
+    <Navbar />
+    <Header></Header>
+    <router-view />
+    <Footer />
+  </div>
 </template>

@@ -1,0 +1,4269 @@
+{
+  "links": [
+    {
+      "name": "GIS",
+      "collection": "GIS",
+      "data": [
+        {
+          "id": 1,
+          "title": "GISCARTA - Informational Pop-ups in GIS",
+          "url": "https://giscarta.com/blog/informational-pop-ups-in-gis",
+          "description": "A guide on how to create and use informational pop-ups in GIS applications to enhance user interaction and data presentation.",
+          "tags": [
+            "GIS",
+            "GISCARTA"
+          ],
+          "download": 0,
+          "download_mode": "",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 2,
+          "title": "Google Sheets - GIS Database Repository for Disaster Risk",
+          "url": "https://docs.google.com/spreadsheets/d/1HIQdo_K5F3eft_6OmWhYpVke8ZB1na5fhwlgHiPJlUo/edit?gid=732745858#gid=732745858",
+          "description": "GIS Database Repository for Disaster Risk, Emergency Response, and Resilience Planning",
+          "tags": [
+            "DataBase",
+            "GIS",
+            "Disaster Risk"
+          ],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 3,
+          "title": "rainfall-induced landslide catalogue in Italy",
+          "url": "https://www.nature.com/articles/s41597-025-04551-6",
+          "description": "An enhanced rainfall-induced landslide catalogue in Italy",
+          "tags": [
+            "Soil",
+            "e-ITALICA",
+            "landslide"
+          ],
+          "download": 1,
+          "download_mode": "PDF 📝",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 4,
+          "title": "rainfall-induced landslide catalogue in Italy",
+          "url": "https://zenodo.org/records/14204473",
+          "description": "An enhanced rainfall-induced landslide catalogue in Italy",
+          "tags": [
+            "Soil",
+            "e-ITALICA",
+            "landslide"
+          ],
+          "download": 1,
+          "download_mode": "CSV 📥",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 5,
+          "title": "Copernicus Climate Change Service - ERA Explorer",
+          "url": "https://apps.copernicus-climate.eu/c3s-apps/era-explorer/?lat=40.84&lng=14.25&plot=8",
+          "description": "Explore climate data from the Copernicus Climate Change Service.",
+          "tags": [
+            "Climate",
+            "Copernicus"
+          ],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 6,
+          "title": "Async TIFF",
+          "url": "https://github.com/developmentseed/async-tiff",
+          "description": "A library for reading and writing GeoTIFF files asynchronously.",
+          "tags": [
+            "GeoTIFF",
+            "Async"
+          ],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 7,
+          "title": "Ras Commander",
+          "url": "https://github.com/gpt-cmdr/ras-commander",
+          "description": "A command-line tool for managing and analyzing remote sensing data.",
+          "tags": [
+            "Remote Sensing",
+            "Command Line"
+          ],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 8,
+          "title": "QGIS MCP",
+          "url": "https://github.com/jjsantos01/qgis_mcp",
+          "description": "A QGIS plugin for managing and analyzing multi-criteria projects.",
+          "tags": [
+            "QGIS",
+            "Plugin"
+          ],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 9,
+          "title": "Live Precipitation Map",
+          "url": "https://liveprecipitation-leaflet-rainviewer.netlify.app/#",
+          "description": "A live map showing precipitation data.",
+          "tags": [
+            "Weather",
+            "Map"
+          ],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 10,
+          "title": "pytRIBS",
+          "url": "https://www.sciencedirect.com/science/article/abs/pii/S1364815225001161",
+          "description": "An open, modular, and reproducible python-based framework for distributed hydrologic modeling",
+          "tags": [
+            "Python",
+            "hydrologic"
+          ],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 11,
+          "title": "ArcGIS Earth Engine Toolbox",
+          "url": "https://github.com/gee-community/arcgis-earthengine-toolbox",
+          "description": "A toolbox for integrating ArcGIS with Google Earth Engine.",
+          "tags": [
+            "ArcGIS",
+            "Google Earth Engine"
+          ],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 12,
+          "title": "Geofabrik Shapefiles",
+          "url": "https://www.geofabrik.de/data/shapefiles.html",
+          "description": "Download shapefiles for various regions from Geofabrik.",
+          "tags": [
+            "Shapefiles",
+            "Geospatial Data"
+          ],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 13,
+          "title": "OpenStreetMap Data Extracts",
+          "url": "https://extract.bbbike.org/",
+          "description": "Extract OpenStreetMap data for specific areas.",
+          "tags": [
+            "OpenStreetMap",
+            "Data Extracts"
+          ],
+          "download": 0,
+          "download_mode": "",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 14,
+          "title": "DIVA-GIS Data",
+          "url": "https://diva-gis.org/data.html",
+          "description": "Download free spatial data for various countries, including administrative boundaries, roads, and land cover.",
+          "tags": [
+            "DIVA-GIS",
+            "Spatial Data"
+          ],
+          "download": 0,
+          "download_mode": "",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 15,
+          "title": "GADM - Global Administrative Areas",
+          "url": "https://gadm.org/",
+          "description": "Download global administrative areas data in various formats.",
+          "tags": [
+            "GADM",
+            "Administrative Areas"
+          ],
+          "download": 0,
+          "download_mode": "",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 16,
+          "title": "Humanitarian Data Exchange",
+          "url": "https://data.humdata.org/",
+          "description": "A platform for sharing humanitarian data.",
+          "tags": [
+            "Humanitarian",
+            "Data"
+          ],
+          "download": 0,
+          "download_mode": "",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 17,
+          "title": "Overpass Turbo",
+          "url": "https://overpass-turbo.eu/",
+          "description": "A web-based tool for querying and visualizing OpenStreetMap data.",
+          "tags": [
+            "OpenStreetMap",
+            "Data Visualization"
+          ],
+          "download": 0,
+          "download_mode": "",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 18,
+          "title": "MapCruzin",
+          "url": "https://mapcruzin.com/",
+          "description": "A resource for free GIS data, maps, and tools.",
+          "tags": [
+            "GIS",
+            "Maps",
+            "Data"
+          ],
+          "download": 0,
+          "download_mode": "",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 19,
+          "title": "FAO-UNESCO Soil Map of the World",
+          "url": "https://www.fao.org/soils-portal/data-hub/soil-maps-and-databases/faounesco-soil-map-of-the-world/en/",
+          "description": "A global soil map providing information on soil resources.",
+          "tags": [
+            "Soil",
+            "FAO",
+            "UNESCO"
+          ],
+          "download": 0,
+          "download_mode": "",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 20,
+          "title": "Ramsar Sites Information Service",
+          "url": "https://rsis.ramsar.org/",
+          "description": "A database of wetlands of international importance.",
+          "tags": [
+            "Wetlands",
+            "Ramsar"
+          ],
+          "download": 0,
+          "download_mode": "",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 21,
+          "title": "World Bank Data Catalog",
+          "url": "https://datacatalog.worldbank.org/home",
+          "description": "A comprehensive catalog of World Bank data.",
+          "tags": [
+            "World Bank",
+            "Data"
+          ],
+          "download": 0,
+          "download_mode": "",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 22,
+          "title": "GeoBasisLoader",
+          "url": "https://geoobserver.de/2025/04/10/geobasisloader-de-und-17000/",
+          "description": "A tool for loading and processing geospatial data.",
+          "tags": [
+            "Geospatial",
+            "Data Processing"
+          ],
+          "download": 0,
+          "download_mode": "",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 23,
+          "title": "SatMonitoring",
+          "url": "https://www.satmonitoring.it/webgis",
+          "description": "A web GIS platform for satellite monitoring.",
+          "tags": [
+            "Satellite",
+            "GIS"
+          ],
+          "download": 0,
+          "download_mode": "",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 24,
+          "title": "QGIS Tipp: GeoBasis_Loader News",
+          "url": "https://geoobserver.de/2025/04/29/qgis-tipp-geobasis_loader-news/",
+          "description": "Latest news and updates on the GeoBasis_Loader for QGIS.",
+          "tags": [
+            "QGIS",
+            "GeoBasis_Loader"
+          ],
+          "download": 0,
+          "download_mode": "",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 25,
+          "title": "GeoJSON Files Prüfen mit geojson.io",
+          "url": "https://geoobserver.de/2025/04/30/geojson-files-pruefen-mit-geojson-io/",
+          "description": "A guide on how to validate and edit GeoJSON files using geojson.io.",
+          "tags": [
+            "GeoJSON",
+            "Validation"
+          ],
+          "download": 0,
+          "download_mode": "",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 26,
+          "title": "Track Changes Plugin for QGIS",
+          "url": "https://plugins.qgis.org/plugins/track_changes/",
+          "description": "A QGIS plugin for tracking changes in your GIS data.",
+          "tags": [
+            "QGIS",
+            "Plugins"
+          ],
+          "download": 0,
+          "download_mode": "",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 27,
+          "title": "Forrest NYC",
+          "url": "https://forrest.nyc/",
+          "description": "A platform for exploring and visualizing urban data.",
+          "tags": [
+            "Urban",
+            "Data",
+            "Visualization"
+          ],
+          "download": 0,
+          "download_mode": "",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 28,
+          "title": "Delimitación de Subcuencas Hidrográficas con QGIS y SAGA",
+          "url": "https://mappinggis.com/2025/05/delimitacion-de-subcuencas-hidrograficas-con-qgis-y-saga/",
+          "description": "Una guía sobre cómo delimitar subcuencas hidrográficas utilizando QGIS y SAGA.",
+          "tags": [
+            "QGIS",
+            "SAGA",
+            "Hidrología"
+          ],
+          "download": 0,
+          "download_mode": "",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 29,
+          "title": "QGIS Certification",
+          "url": "https://certification.qgis.org/en/",
+          "description": "Official QGIS certification program.",
+          "tags": [
+            "QGIS",
+            "Certification"
+          ],
+          "download": 0,
+          "download_mode": "",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 30,
+          "title": "Istat - Geoportal",
+          "url": "https://gisportal.istat.it/bt.carto/bt.carto.html",
+          "description": "Istat's geoportal for accessing statistical data and maps.",
+          "tags": [
+            "Istat",
+            "Geoportal",
+            "Statistics"
+          ],
+          "download": 0,
+          "download_mode": "",
+          "stato": [
+            "open"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "RS",
+      "collection": "RS",
+      "data": [
+        {
+          "id": 1,
+          "title": "An early warning system based on machine learning detects huge forest loss in Ukraine during the war",
+          "url": "https://www.sciencedirect.com/science/article/pii/S2351989425000289?via%3Dihub",
+          "description": "During the war in Ukraine, alongside the devastating loss of human lives, vast areas of forests have also been destroyed. In this new paper, lead by Roberto Cazzolla Gatti we estimated this forest loss using AI and remote sensing data 🛰️",
+          "tags": [
+            "LLMs",
+            "Remote Sensing",
+            "Ukraine"
+          ],
+          "download": 1,
+          "download_mode": "PDF 📝",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 2,
+          "title": "Chat2Geo",
+          "url": "https://chat2geo.georetina.ai/",
+          "description": "A tool for converting chat messages into geospatial data.",
+          "tags": [
+            "Chat",
+            "Geospatial",
+            "Data"
+          ],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 3,
+          "title": "MODIS Images - Land Use and Soil Moisture",
+          "url": "https://mappinggis.com/2025/02/imagenes-modis-usos-suelo-molusce-en-qgis/",
+          "description": "A guide on how to use MODIS images for land use and soil moisture analysis in QGIS.",
+          "tags": [
+            "MODIS",
+            "Land Use",
+            "Soil Moisture",
+            "QGIS"
+          ],
+          "download": 0,
+          "download_mode": "",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 4,
+          "title": "Google Earth Engine VIDEO Tutorials",
+          "url": "https://www.youtube.com/@amirhosseinahrarigee",
+          "description": "Video tutorial on how to detect flood areas using Sentinel-1 SAR imagery in Google Earth Engine.",
+          "tags": [
+            "Google Earth Engine",
+            "YouTube",
+            "Remote Sensing"
+          ],
+          "download": 0,
+          "download_mode": "",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 5,
+          "title": "Copernicus Land Monitoring Service - Products",
+          "url": "https://land.copernicus.eu/en/products",
+          "description": "Access a wide range of land monitoring products from the Copernicus programme, including datasets on land cover, land use, vegetation, water, soil, and biophysical parameters, supporting sustainable environmental management across Europe.",
+          "tags": [
+            "Copernicus",
+            "Land Monitoring",
+            "EU"
+          ],
+          "download": 1,
+          "download_mode": "Istant 📥",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 15,
+          "title": "Wyvern - Open Data",
+          "url": "https://wyvern.space/open-data/",
+          "description": "Wyvern is a platform for accessing and sharing open data.",
+          "tags": [
+            "Wyvern",
+            "Open Data"
+          ],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 16,
+          "title": "Misread t-SNE",
+          "url": "https://distill.pub/2016/misread-tsne/",
+          "description": "A visual and interactive explanation of t-SNE.",
+          "tags": [
+            "t-SNE",
+            "Visualization"
+          ],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 17,
+          "title": "YouTube Video - Misread t-SNE",
+          "url": "https://www.youtube.com/watch?v=I99JprDlWTc",
+          "description": "A video explanation of the misinterpretation of t-SNE visualizations.",
+          "tags": [
+            "YouTube",
+            "t-SNE",
+            "Visualization"
+          ],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 18,
+          "title": "BIOMASS - Press Pack",
+          "url": "https://esamultimedia.esa.int/docs/EarthObservation/BIOMASS_Press_Pack_250418.pdf",
+          "description": "Press pack for the BIOMASS mission.",
+          "tags": [
+            "BIOMASS",
+            "ESA"
+          ],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 19,
+          "title": "Article on Remote Sensing",
+          "url": "https://www.sciencedirect.com/science/article/pii/S2589004225006716?via%3Dihub",
+          "description": "Remote sensing assessment of the weed adaptability to soil salinization induced by extreme droughts on coastal agriculture.",
+          "tags": [
+            "Remote Sensing",
+            "Science"
+          ],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 20,
+          "title": "Earth Observations with GEE and AI",
+          "url": "https://www.youtube.com/watch?v=9EvF-zCQ4vI",
+          "description": "land use/land cover mapping using Google Earth Engine and AI",
+          "tags": [
+            "YouTube",
+            "Remote Sensing"
+          ],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 21,
+          "title": "GitHub Repository - Earth Observations with GEE and AI",
+          "url": "https://github.com/iamtekson/earth-observations-with-gee-and-AI/tree/main/03_lulc_mapping",
+          "description": "A GitHub repository containing code and resources for land use/land cover mapping using Google Earth Engine and AI.",
+          "tags": [
+            "GitHub",
+            "Earth Observations",
+            "GEE",
+            "AI"
+          ],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 22,
+          "title": "Remote Sensing of Environment - Article",
+          "url": "https://www.mdpi.com/2072-4292/16/20/3842?utm_medium=social_journ&utm_campaign=remotesensing&utm_source=linkedin",
+          "description": "Using Advanced InSAR Techniques and Machine Learning in Google Earth Engine (GEE)",
+          "tags": [
+            "mdpi"
+          ],
+          "download": 1,
+          "download_mode": "PDF 📝",
+          "stato": [
+            "open"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cad",
+      "collection": "Cad",
+      "data": [
+        {
+          "id": 1,
+          "title": "Cadastral - Italy",
+          "url": "https://geodati.gov.it/geoportale/visualizzazione-metadati/scheda-metadati/?uuid=age%3AS_0000_ITALIA",
+          "description": "Download all cadastral parcels of ITALY - also for each REGION",
+          "tags": [
+            "Cadastrals",
+            "gov"
+          ],
+          "download": 0,
+          "download_mode": "",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 2,
+          "title": "archivio anncsu ",
+          "url": "https://www.cadastre.gouv.fr/",
+          "description": "Stradario e indirizzario dell'Archivio Nazionale dei Numeri Civici e delle Strade",
+          "tags": [
+            "ANNC",
+            "SU",
+            "gov",
+            "API"
+          ],
+          "download": 0,
+          "download_mode": "",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 3,
+          "title": "Consultazione ANNC",
+          "url": "https://geodati.gov.it/geoportale/visualizzazione-metadati/scheda-metadati/?uuid=age:consultazioneANNCSU",
+          "description": "Consultazione dell'Archivio Nazionale dei Numeri Civici e delle Strade",
+          "tags": [
+            "ANNC",
+            "SU",
+            "gov",
+            "API"
+          ],
+          "download": 0,
+          "download_mode": "",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 4,
+          "title": "YouTube Video - WFS Catasto",
+          "url": "https://www.youtube.com/watch?v=qd4Tj4LKGgc",
+          "description": "QGIS Ricerca per attributi Particelle Catastali",
+          "tags": [
+            "YouTube",
+            "WFS Catasto"
+          ],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": [
+            "open"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Raster",
+      "collection": "Raster",
+      "data": [
+        {
+          "id": 1,
+          "title": "NASA Earthdata - DEM Download",
+          "url": "https://search.earthdata.nasa.gov/search?gdf=DEM&as[granule_data_format][0]=DEM",
+          "description": "Global Shuttle Radar Topography Mission (SRTM) DEM datasets for elevation mapping, available for download via NASA Earthdata.",
+          "tags": [
+            "DEM",
+            "NASA",
+            "Elevation"
+          ],
+          "download": 1,
+          "download_mode": "Istant 📥",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 2,
+          "title": "NASA Earthdata - SRTM - DEM Download",
+          "url": "https://search.earthdata.nasa.gov/search?fi=SRTM",
+          "description": "Global Shuttle Radar Topography Mission (SRTM) DEM datasets for elevation mapping, available for download via NASA Earthdata.",
+          "tags": [
+            "DEM",
+            "SRTM",
+            "NASA",
+            "Elevation"
+          ],
+          "download": 1,
+          "download_mode": "Istant 📥",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 3,
+          "title": "Copernicus Land Monitoring Service (EU-DEM)",
+          "url": "https://land.copernicus.eu/en/products/products-that-are-no-longer-disseminated-on-the-clms-website",
+          "description": "European Digital Elevation Model (EU-DEM) dataset provided by the Copernicus programme for the European territory.",
+          "tags": [
+            "DEM",
+            "Copernicus",
+            "EU",
+            "Elevation"
+          ],
+          "download": 1,
+          "download_mode": "Istant 📥",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 4,
+          "title": "USGS Earth Explorer - LiDAR and DEM Data",
+          "url": "https://earthexplorer.usgs.gov/",
+          "description": "Access USGS Earth Explorer to download LiDAR point clouds, DEMs and DTM data worldwide.",
+          "tags": [
+            "LiDAR",
+            "DEM",
+            "DTM",
+            "USGS"
+          ],
+          "download": 1,
+          "download_mode": "Portal 🌍",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 5,
+          "title": "OpenTopography - High-Resolution Topography Data",
+          "url": "https://portal.opentopography.org/datasets?dataSources=global&group=global",
+          "description": "Global portal for accessing high-resolution topography datasets including LiDAR, DEMs and point cloud data.",
+          "tags": [
+            "LiDAR",
+            "DEM",
+            "Topography",
+            "Open Data"
+          ],
+          "download": 1,
+          "download_mode": "Istant 📥",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 6,
+          "title": "AW3D Global High-Resolution 5m DEM",
+          "url": "https://www.aw3d.jp/en/sampleform/",
+          "description": "High-resolution (5-meter) global DEM dataset developed by JAXA and NTT Data, available upon request.",
+          "tags": [
+            "DEM",
+            "Global",
+            "JAXA"
+          ],
+          "download": 1,
+          "download_mode": "Request Form 📩",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 7,
+          "title": "Copernicus DEM validation report",
+          "url": "https://s3.waw3-1.cloudferro.com/swift/v1/portal_uploads_prod/GEO1988-CopernicusDEM-RP-001_ValidationReport_I3.0_08.2024.pdf",
+          "description": "The methods and implementation of statistical procedures used to validate vertical accuracy of the Copernicus DEM.",
+          "tags": [
+            "DEM",
+            "Copernicus",
+            "EU"
+          ],
+          "download": 1,
+          "download_mode": "PDF 📝",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 8,
+          "title": "LiDAR - SIM Download PST",
+          "url": "https://sim.mase.gov.it/portalediaccesso/mappe/#/viewer/new",
+          "description": "Ministero dell'Ambiente e della Sicurezza Energetica - Access to Italian national LiDAR datasets and digital terrain models (DTM).",
+          "tags": [
+            "LiDAR",
+            "SIM"
+          ],
+          "download": 1,
+          "download_mode": "Istant 📥",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 9,
+          "title": "Datasets on dati.gov.it",
+          "url": "https://www.dati.gov.it/index.php/view-dataset?page=0&tags=lidar",
+          "description": "Explore datasets available on dati.gov.it, the Italian open data portal. These high-resolution datasets support applications in terrain modeling, environmental monitoring, and urban planning.",
+          "tags": [
+            "LiDAR",
+            "DTM"
+          ],
+          "download": 1,
+          "download_mode": "Istant 📥",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 10,
+          "title": "GeoTiff 100 MB to 1MB",
+          "url": "https://www.youtube.com/watch?v=RHOvdh7XoE8",
+          "description": "Youtube video tutorial",
+          "tags": [
+            "Youtube",
+            "GeoTiff"
+          ],
+          "download": 0,
+          "download_mode": "",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 11,
+          "title": "Sampling Raster Data with Xarray",
+          "url": "https://www.youtube.com/watch?v=AJHdwcf8ySE&list=PLppGmFLhQ1HJIZgEzsyiRgGauN4Wx3bOL&index=4",
+          "description": "Youtube video tutorial",
+          "tags": [
+            "Youtube",
+            "GeoTiff"
+          ],
+          "download": 0,
+          "download_mode": "",
+          "stato": [
+            "open"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "LUCAS",
+      "collection": "LUCAS",
+      "data": [
+        {
+          "id": 1,
+          "title": "ST_LUCAS Download Manager (QGIS Plugin)",
+          "url": "https://plugins.qgis.org/plugins/st_lucas_download_manager/",
+          "description": "A QGIS plugin for downloading harmonized space–time aggregated LUCAS survey points directly into your QGIS project.",
+          "tags": [
+            "LUCAS",
+            "EU",
+            "plugin",
+            "QGIS"
+          ],
+          "download": 1,
+          "download_mode": "Request From 📩",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 2,
+          "title": "LUCAS Soil Survey Portal (Eurostat)",
+          "url": "https://ec.europa.eu/eurostat/web/lucas",
+          "description": "Official Eurostat portal to download raw micro-data files for each survey year and country in CSV format.",
+          "tags": [
+            "LUCAS",
+            "EU",
+            "CSV"
+          ],
+          "download": "",
+          "download_mode": "",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 3,
+          "title": "LUCAS Database (ESDAC)",
+          "url": "https://esdac.jrc.ec.europa.eu/projects/lucas",
+          "description": "Download the LUCAS dataset (2009, 2012, 2015, 2018, 2022)",
+          "tags": [
+            "LUCAS",
+            "ESDAC",
+            "Database"
+          ],
+          "download": "",
+          "download_mode": "",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 4,
+          "title": "LUCAS Topsoil 2018 (ESDAC)",
+          "url": "https://esdac.jrc.ec.europa.eu/content/lucas-2018-topsoil-data",
+          "description": "Fill request form to download the LUCAS 2018 topsoil dataset",
+          "tags": [
+            "LUCAS",
+            "ESDAC",
+            "Topsoil"
+          ],
+          "download": 1,
+          "download_mode": "Request From 📩",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 5,
+          "title": "LUCAS Topsoil (ESDAC)",
+          "url": "https://esdac.jrc.ec.europa.eu/resource-type/soil-point-data",
+          "description": "Fill request form to download the LUCAS topsoil dataset",
+          "tags": [
+            "LUCAS",
+            "ESDAC",
+            "Topsoil"
+          ],
+          "download": 1,
+          "download_mode": "Request From 📩",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 6,
+          "title": "LUCAS primaryData (ESDAC)",
+          "url": "https://ec.europa.eu/eurostat/web/lucas/database/primary-data",
+          "description": "To download the photos, please consult our LUCAS photo section.",
+          "tags": [
+            "LUCAS",
+            "ESDAC",
+            "photos"
+          ],
+          "download": "",
+          "download_mode": "",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 7,
+          "title": "LUCAS Photos (ESDAC)",
+          "url": "https://gisco-services.ec.europa.eu/lucas/photos/2022/",
+          "description": "To download the photos, please consult our LUCAS photo section.",
+          "tags": [
+            "LUCAS",
+            "ESDAC",
+            "photos"
+          ],
+          "download": "",
+          "download_mode": "",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 4,
+          "title": "Harmonized THLOC Points (Google Earth Engine)",
+          "url": "https://developers.google.com/earth-engine/datasets/catalog/JRC_LUCAS_HARMO_THLOC_V1",
+          "description": "Harmonized LUCAS theoretical-location (THLOC) point dataset (2006–2018) accessible via the Google Earth Engine Data Catalog.",
+          "tags": [
+            "LUCAS",
+            "EU",
+            "GEE",
+            "API",
+            "Remote Sensing"
+          ],
+          "download": "",
+          "download_mode": "",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 5,
+          "title": "LUCAS 2015 Topsoil API (API Store)",
+          "url": "https://api.store/eu-institutions-api/joint-research-centre-api/lucas-2015-topsoil-data-api",
+          "description": "REST-style API providing programmatic access to LUCAS 2015 topsoil micro-data via the Apitalks Open Data Marketplace.",
+          "tags": [
+            "LUCAS",
+            "API",
+            "Topsoil"
+          ],
+          "download": "",
+          "download_mode": "",
+          "stato": [
+            "early access"
+          ]
+        },
+        {
+          "id": 6,
+          "title": "LUCAS Historical Land Cover/Land Use (ArcGIS)",
+          "url": "https://www.arcgis.com/home/item.html?id=24ffac5d6568441a8cfff5ba874ed498",
+          "description": "ArcGIS Online item for downloading point-based environmental parameters from the LUCAS 2012 survey.",
+          "tags": [
+            "LUCAS",
+            "ArcGIS",
+            "Remote Sensing"
+          ],
+          "download": "",
+          "download_mode": "",
+          "stato": [
+            "archived"
+          ]
+        },
+        {
+          "id": 7,
+          "title": "Open Geospatial Harmonization System (MDPI article)",
+          "url": "https://www.mdpi.com/2220-9964/11/7/361",
+          "description": "Describes the ST_LUCAS system components and Python package for in-situ LUCAS data harmonization, including a WFS API interface.",
+          "tags": [
+            "LUCAS",
+            "API",
+            "WFS",
+            "Python",
+            "Article"
+          ],
+          "download": "",
+          "download_mode": "",
+          "stato": [
+            "published"
+          ]
+        },
+        {
+          "id": 8,
+          "title": "LUCAS Soil Harmonized Dataset (Nature Scientific Data)",
+          "url": "https://www.nature.com/articles/s41597-020-00675-z",
+          "description": "Peer-reviewed paper and links for downloading the harmonized LUCAS Soil dataset (2009–2018) and documentation.",
+          "tags": [
+            "LUCAS",
+            "ESDAC",
+            "Article"
+          ],
+          "download": 1,
+          "download_mode": "PDF 📝",
+          "stato": [
+            "published"
+          ]
+        },
+        {
+          "id": 9,
+          "title": "CRAN ‘lucas’ R Package Documentation",
+          "url": "https://cran.r-project.org/web/packages/lucas/lucas.pdf",
+          "description": "R package to connect to and download harmonized LUCAS data programmatically for statistical analysis in R.",
+          "tags": [
+            "LUCAS",
+            "R",
+            "API"
+          ],
+          "download": 1,
+          "download_mode": "PDF 📝",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 10,
+          "title": "LUCAS 2022 - shortest path to LUCAS points and import in Google Maps",
+          "url": "https://junglekiosk.github.io/Eurostat_LUCASproject_2022",
+          "description": "1. extrapolate points 2. topological districts 3. Shortest path to point 4. data entry iteration 5. import into Google My Maps",
+          "tags": [
+            "LUCAS",
+            "QGIS",
+            "Python",
+            "Google Maps"
+          ],
+          "download": "",
+          "download_mode": "",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 11,
+          "title": "LUCAS Soil Function Data (ESDAC)",
+          "url": "https://esdac.jrc.ec.europa.eu/content/soil-function-data-measured-lucas-2018-sites-across-eu",
+          "description": "Soil functions data for 885 samples (881 sites) from LUCAS 2018 are available as a CSV file that comes together with a metadata PDF file.",
+          "tags": [
+            "LUCAS",
+            "Soil",
+            "csv"
+          ],
+          "download": "",
+          "download_mode": "",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 12,
+          "title": "LUCAS 2009 Topsoil Data",
+          "url": "https://esdac.jrc.ec.europa.eu/content/lucas-2009-topsoil-data",
+          "description": "Dataset from the first LUCAS soil sampling in 2009.",
+          "tags": [
+            "LUCAS",
+            "Topsoil",
+            "2009",
+            "Europe"
+          ],
+          "download": 1,
+          "download_mode": "Request From 📩",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 13,
+          "title": "LUCAS 2015 Topsoil Data",
+          "url": "https://esdac.jrc.ec.europa.eu/content/lucas2015-topsoil-data",
+          "description": "Data from the 2015 LUCAS soil survey.",
+          "tags": [
+            "LUCAS",
+            "Topsoil",
+            "2015",
+            "EU Soil"
+          ],
+          "download": 1,
+          "download_mode": "Request From 📩",
+          "stato": [
+            "open"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ESDAC",
+      "collection": "ESDAC",
+      "data": [
+        {
+          "id": 1,
+          "title": "Phosphorus budget and P stocks",
+          "url": "https://esdac.jrc.ec.europa.eu/content/phosphorus-budget-and-p-stocks",
+          "description": "Phosphorus stocks and budgets across European soils.",
+          "tags": [
+            "Phosphorus",
+            "Soil",
+            "Nutrients"
+          ],
+          "download": 1,
+          "download_mode": "Request From 📩",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 2,
+          "title": "Heavy metals in EU soils (LUCAS 2009)",
+          "url": "https://esdac.jrc.ec.europa.eu/content/maps-heavy-metals-soils-eu-based-lucas-2009-hm-data-0",
+          "description": "Maps and datasets of heavy metals in EU soils based on LUCAS 2009.",
+          "tags": [
+            "Heavy Metals",
+            "LUCAS",
+            "Soil Contamination"
+          ],
+          "download": 1,
+          "download_mode": "Request From 📩",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 3,
+          "title": "Bacterial and fungal biomass",
+          "url": "https://esdac.jrc.ec.europa.eu/content/bacterial-fungal-biomass-fatty-acid-methyl-esters",
+          "description": "Dataset on microbial biomass based on fatty acid methyl esters.",
+          "tags": [
+            "Biomass",
+            "Microbiology",
+            "Soil"
+          ],
+          "download": 1,
+          "download_mode": "Request From 📩",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 4,
+          "title": "Pesticide residues in agricultural soils",
+          "url": "https://esdac.jrc.ec.europa.eu/content/pesticides-residues-european-agricultural-soils",
+          "description": "Pesticide occurrence data in EU agricultural soils.",
+          "tags": [
+            "Pesticides",
+            "Agriculture",
+            "Soil Quality"
+          ],
+          "download": 1,
+          "download_mode": "Request From 📩",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 5,
+          "title": "SPADE 1.4",
+          "url": "https://esdac.jrc.ec.europa.eu/content/spade-14",
+          "description": "Soil Profile Analytical Database - SPADE version 1.4.",
+          "tags": [
+            "SPADE",
+            "Soil Profiles",
+            "Database"
+          ],
+          "download": 1,
+          "download_mode": "Request From 📩",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 6,
+          "title": "Chemical properties from LUCAS topsoil",
+          "url": "https://esdac.jrc.ec.europa.eu/content/chemical-properties-european-scale-based-lucas-topsoil-data",
+          "description": "Chemical properties of European topsoils derived from LUCAS sampling.",
+          "tags": [
+            "LUCAS",
+            "Soil Chemistry",
+            "Topsoil"
+          ],
+          "download": 1,
+          "download_mode": "Request From 📩",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 7,
+          "title": "Chemical properties from LUCAS topsoil (EU-scale)",
+          "url": "https://esdac.jrc.ec.europa.eu/content/chemical-properties-european-scale-based-lucas-topsoil-data",
+          "description": "Chemical properties of topsoil samples across Europe based on LUCAS survey.",
+          "tags": [
+            "LUCAS",
+            "Soil Chemistry",
+            "Topsoil",
+            "EU"
+          ],
+          "download": 1,
+          "download_mode": "Request From 📩",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 8,
+          "title": "Physical properties of topsoil (LUCAS EU-based)",
+          "url": "https://esdac.jrc.ec.europa.eu/content/topsoil-physical-properties-europe-based-lucas-topsoil-data",
+          "description": "Physical soil properties dataset derived from the European LUCAS topsoil samples.",
+          "tags": [
+            "LUCAS",
+            "Soil Texture",
+            "Topsoil",
+            "Physical Properties"
+          ],
+          "download": 1,
+          "download_mode": "Request From 📩",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 8,
+          "title": "Phosphorus cycle in European agricultural soils",
+          "url": "https://esdac.jrc.ec.europa.eu/content/phosphorus-cycle-european-agricultural-soils",
+          "description": "Data on the phosphorus cycle and stock in European agricultural topsoils.",
+          "tags": [
+            "Phosphorus",
+            "Nutrient cycle",
+            "Agriculture",
+            "Topsoil"
+          ],
+          "download": 1,
+          "download_mode": "Request From 📩",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 9,
+          "title": "Soil organic carbon losses by lateral transfer to oceans",
+          "url": "https://esdac.jrc.ec.europa.eu/content/soil-organic-carbon-losses-lateral-transfer-oceans",
+          "description": "Dataset describing SOC losses due to erosion and runoff reaching marine systems.",
+          "tags": [
+            "Carbon",
+            "Soil erosion",
+            "Climate",
+            "Topsoil"
+          ],
+          "download": 1,
+          "download_mode": "Request From 📩",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 10,
+          "title": "Soil bulk density in Europe",
+          "url": "https://esdac.jrc.ec.europa.eu/content/soil-bulk-density-europe",
+          "description": "Bulk density data for European topsoils.",
+          "tags": [
+            "Bulk Density",
+            "Soil",
+            "Europe"
+          ],
+          "download": 1,
+          "download_mode": "Request From 📩",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 11,
+          "title": "Zinc concentrations in EU topsoils",
+          "url": "https://esdac.jrc.ec.europa.eu/content/zn-concentrations-eu-topsoils",
+          "description": "Maps and data of Zn (zinc) concentration in European Union topsoil samples.",
+          "tags": [
+            "Zinc",
+            "Soil Chemistry",
+            "Heavy Metals",
+            "Topsoil"
+          ],
+          "download": 1,
+          "download_mode": "Request From 📩",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 12,
+          "title": "Cadmium concentrations in EU topsoils",
+          "url": "https://esdac.jrc.ec.europa.eu/content/cadmium-topsoils-european-union",
+          "description": "Dataset of cadmium levels in topsoils across the EU.",
+          "tags": [
+            "Cadmium",
+            "Heavy Metals",
+            "Soil Contamination",
+            "Topsoil"
+          ],
+          "download": 1,
+          "download_mode": "Request From 📩",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 13,
+          "title": "Mercury content in EU topsoils",
+          "url": "https://esdac.jrc.ec.europa.eu/content/mercury-content-european-union-topsoil",
+          "description": "Mercury stock and distribution across EU agricultural soils, including hotspots.",
+          "tags": [
+            "Mercury",
+            "Soil Contamination",
+            "Heavy Metals",
+            "Topsoil"
+          ],
+          "download": 1,
+          "download_mode": "Request From 📩",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 14,
+          "title": "Soil microbial biomass and respiration",
+          "url": "https://esdac.jrc.ec.europa.eu/content/soil-microbial-biomass-and-respiration",
+          "description": "Dataset on microbial biomass and respiration as soil health indicators.",
+          "tags": [
+            "Soil Biology",
+            "Microbial Biomass",
+            "Respiration",
+            "Health"
+          ],
+          "download": 1,
+          "download_mode": "Request From 📩",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 15,
+          "title": "Caesium-137 and Plutonium-239/240 in European topsoils",
+          "url": "https://esdac.jrc.ec.europa.eu/content/caesium-137-and-plutonium-239240-european-topsoils",
+          "description": "Radiological data on Cs-137 and Pu-239/240 across EU topsoils.",
+          "tags": [
+            "Radioactivity",
+            "Topsoil",
+            "Contaminants",
+            "EU"
+          ],
+          "download": 1,
+          "download_mode": "Request From 📩",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 16,
+          "title": "Pan-European SOC stock in agricultural soils",
+          "url": "https://esdac.jrc.ec.europa.eu/content/pan-european-soc-stock-agricultural-soils",
+          "description": "Soil organic carbon stocks across EU agricultural areas.",
+          "tags": [
+            "SOC",
+            "Carbon Stock",
+            "Agriculture",
+            "Topsoil"
+          ],
+          "download": 1,
+          "download_mode": "Request From 📩",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 17,
+          "title": "Heavy metals in EU soils (LUCAS 2009)",
+          "url": "https://esdac.jrc.ec.europa.eu/content/maps-heavy-metals-soils-eu-based-lucas-2009-hm-data-0",
+          "description": "Georeferenced heavy metal data from LUCAS 2009.",
+          "tags": [
+            "Heavy Metals",
+            "LUCAS",
+            "Topsoil",
+            "Contaminants"
+          ],
+          "download": 1,
+          "download_mode": "Request From 📩",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 18,
+          "title": "Potential threats to soil biodiversity in Europe",
+          "url": "https://esdac.jrc.ec.europa.eu/content/potential-threats-soil-biodiversity-europe",
+          "description": "Maps highlighting areas at risk of losing soil biodiversity.",
+          "tags": [
+            "Soil Biodiversity",
+            "Threats",
+            "EU"
+          ],
+          "download": 1,
+          "download_mode": "Request From 📩",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 19,
+          "title": "Soil organic carbon saturation capacity",
+          "url": "https://esdac.jrc.ec.europa.eu/content/soil-organic-carbon-saturation-capacity",
+          "description": "Assessment of SOC potential storage across EU soils.",
+          "tags": [
+            "SOC",
+            "Saturation",
+            "Carbon Sequestration"
+          ],
+          "download": 1,
+          "download_mode": "Request From 📩",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 20,
+          "title": "Maps: storing and filtering capacity of soils in Europe",
+          "url": "https://esdac.jrc.ec.europa.eu/content/maps-storing-and-filtering-capacity-soils-europe",
+          "description": "Repeated dataset entry for soil filtering capacity maps.",
+          "tags": [
+            "Filtering",
+            "Water Retention",
+            "Soil Function"
+          ],
+          "download": 1,
+          "download_mode": "Request From 📩",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 21,
+          "title": "Soil organic carbon projections",
+          "url": "https://esdac.jrc.ec.europa.eu/content/soil-organic-carbon-soc-projections-europe",
+          "description": "Future scenarios of SOC distribution under various land uses.",
+          "tags": [
+            "SOC",
+            "Projections",
+            "Carbon",
+            "Climate"
+          ],
+          "download": 1,
+          "download_mode": "Request From 📩",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 22,
+          "title": "LUCAS 2018 Topsoil Data",
+          "url": "https://esdac.jrc.ec.europa.eu/content/lucas-2018-topsoil-data",
+          "description": "Official dataset of LUCAS 2018 topsoil sampling campaign.",
+          "tags": [
+            "LUCAS",
+            "Topsoil",
+            "2018",
+            "Soil Properties"
+          ],
+          "download": 1,
+          "download_mode": "Request From 📩",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 23,
+          "title": "LUCAS 2009 Topsoil Data",
+          "url": "https://esdac.jrc.ec.europa.eu/content/lucas-2009-topsoil-data",
+          "description": "Dataset from the first LUCAS soil sampling in 2009.",
+          "tags": [
+            "LUCAS",
+            "Topsoil",
+            "2009",
+            "Europe"
+          ],
+          "download": 1,
+          "download_mode": "Request From 📩",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 24,
+          "title": "LUCAS 2015 Topsoil Data",
+          "url": "https://esdac.jrc.ec.europa.eu/content/lucas2015-topsoil-data",
+          "description": "Data from the 2015 LUCAS soil survey.",
+          "tags": [
+            "LUCAS",
+            "Topsoil",
+            "2015",
+            "EU Soil"
+          ],
+          "download": 1,
+          "download_mode": "Request From 📩",
+          "stato": [
+            "open"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Climate",
+      "collection": "Climate",
+      "data": [
+        {
+          "id": 1,
+          "title": "climate Data Store - Copernicus",
+          "url": "https://cds.climate.copernicus.eu/datasets",
+          "description": " Historical Data: ERA5-Land",
+          "tags": [
+            "climate",
+            "Copernicus",
+            "EU",
+            "CDS"
+          ],
+          "download": 1,
+          "download_mode": "Istant 📥",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 2,
+          "title": "ESSD - Copernicus Climate Change Service",
+          "url": "https://essd.copernicus.org/articles/16/1503/2024/",
+          "description": "FOCA: a new quality-controlled database of floods and catchment descriptors in Italy",
+          "tags": [
+            "floods",
+            "Copernicus"
+          ],
+          "download": 0,
+          "download_mode": "",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 3,
+          "title": "gee - snow covered area",
+          "url": "https://www.youtube.com/watch?v=5_N0isJU7Pc",
+          "description": "Snow Covered Area Mapping using Landsat Imagery | Google Earth Engine",
+          "tags": [
+            "climate",
+            "video"
+          ],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 4,
+          "title": "gee - AOGCM CMIP6",
+          "url": "https://gee-community-catalog.org/projects/aogcm_cmip6/",
+          "description": "AOGCM CMIP6 data access and processing using Google Earth Engine.",
+          "tags": [
+            "climate",
+            "GEE",
+            "AOGCM",
+            "CMIP6"
+          ],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 5,
+          "title": "Copernicus Climate Data Store (CDS)",
+          "url": "https://cds.climate.copernicus.eu/",
+          "description": "Access and download climate datasets, including reanalysis, seasonal forecasts, and projections.",
+          "tags": [
+            "climate",
+            "Copernicus",
+            "CDS",
+            "Europe",
+            "dataset"
+          ],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 6,
+          "title": "IPCC – Intergovernmental Panel on Climate Change",
+          "url": "https://www.ipcc.ch/",
+          "description": "Official reports and scientific assessments on climate change and its impacts.",
+          "tags": [
+            "climate",
+            "IPCC",
+            "reports",
+            "global",
+            "policy"
+          ],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 7,
+          "title": "NASA Climate Change",
+          "url": "https://climate.nasa.gov/",
+          "description": "NASA portal with data visualizations, trends, and news about Earth's climate.",
+          "tags": [
+            "climate",
+            "NASA",
+            "data",
+            "visualization",
+            "global"
+          ],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 8,
+          "title": "NOAA Climate.gov",
+          "url": "https://www.climate.gov/",
+          "description": "U.S. government's climate data and educational resources.",
+          "tags": [
+            "climate",
+            "NOAA",
+            "USA",
+            "education",
+            "data"
+          ],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 9,
+          "title": "Global Carbon Atlas",
+          "url": "https://www.globalcarbonatlas.org/",
+          "description": "Interactive platform for exploring CO₂ emissions and sinks worldwide.",
+          "tags": [
+            "climate",
+            "carbon",
+            "CO2",
+            "atlas",
+            "global"
+          ],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 10,
+          "title": "Climate Data Gateway (NCAR)",
+          "url": "https://www.earthsystemgrid.org/",
+          "description": "Portal to access large-scale Earth system model datasets.",
+          "tags": [
+            "climate",
+            "NCAR",
+            "models",
+            "data",
+            "EarthSystemGrid"
+          ],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 11,
+          "title": "Berkeley Earth – Global Temperature Data",
+          "url": "http://berkeleyearth.org/data/",
+          "description": "Historical global temperature datasets developed independently.",
+          "tags": [
+            "climate",
+            "temperature",
+            "Berkeley Earth",
+            "historical",
+            "data"
+          ],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 12,
+          "title": "Our World in Data – Climate",
+          "url": "https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions",
+          "description": "Open data and visualizations on CO₂ and greenhouse gas emissions.",
+          "tags": [
+            "climate",
+            "CO2",
+            "data",
+            "OurWorldInData",
+            "emissions"
+          ],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 13,
+          "title": "WorldClim – High Resolution Climate Data",
+          "url": "https://www.worldclim.org/",
+          "description": "Gridded climate data for ecological modeling and GIS applications.",
+          "tags": [
+            "climate",
+            "WorldClim",
+            "GIS",
+            "gridded",
+            "modeling"
+          ],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 14,
+          "title": "Carbon Brief – Climate Science Explained",
+          "url": "https://www.carbonbrief.org/",
+          "description": "Clear explanations and deep dives into climate science and policy.",
+          "tags": [
+            "climate",
+            "Carbon Brief",
+            "science",
+            "policy",
+            "articles"
+          ],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 15,
+          "title": "ISPRA – Cambiamenti Climatici",
+          "url": "https://www.isprambiente.gov.it/it/temi/cambiamenti-climatici",
+          "description": "Informazioni, indicatori e rapporti italiani sui cambiamenti climatici.",
+          "tags": [
+            "climate",
+            "ISPRA",
+            "Italia",
+            "indicatori",
+            "ambiente"
+          ],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 16,
+          "title": "SNPA – Indicatori Clima",
+          "url": "https://www.snpambiente.it/temi/cambiamenti-climatici/",
+          "description": "Sistema nazionale per il monitoraggio degli impatti climatici in Italia.",
+          "tags": [
+            "climate",
+            "SNPA",
+            "Italia",
+            "monitoraggio",
+            "impatti"
+          ],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": [
+            "open"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Soil",
+      "collection": "Soil",
+      "data": [
+        {
+          "id": 1,
+          "title": "USDA Data Catalog - JSON Harvest",
+          "url": "https://catalog.data.gov/harvest/usda-json",
+          "description": "Access USDA datasets in JSON format through the official U.S. government open data portal. Useful for agricultural, soil, and environmental research.",
+          "tags": [
+            "USDA",
+            "JSON"
+          ],
+          "download": 0,
+          "download_mode": "",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 2,
+          "title": "KSSL Guidance - NRCS Soil Data",
+          "url": "https://www.nrcs.usda.gov/resources/guides-and-instructions/kssl-guidance",
+          "description": "Official NRCS guidance documents for using the Kellogg Soil Survey Laboratory (KSSL) datasets, with instructions for data interpretation and analysis.",
+          "tags": [
+            "USDA",
+            "NRCS"
+          ],
+          "download": 1,
+          "download_mode": "PDF 📝",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 3,
+          "title": "Soil Data Access - USDA SDM",
+          "url": "https://sdmdataaccess.sc.egov.usda.gov/",
+          "description": "Official USDA Soil Data Access service, providing public access to the latest soil survey data available through web services and SQL queries.",
+          "tags": [
+            "USDA",
+            "SDM"
+          ],
+          "download": 0,
+          "download_mode": "",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 4,
+          "title": "NCSS Soil Characterization Database",
+          "url": "https://ncsslabdatamart.sc.egov.usda.gov/database_download.aspx",
+          "description": "National Cooperative Soil Survey (NCSS) Lab Data Mart providing access to detailed soil characterization data from laboratory analyses across the United States.",
+          "tags": [
+            "USDA",
+            "NCSS"
+          ],
+          "download": 1,
+          "download_mode": "Istant 📥",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 5,
+          "title": "OpenGeoHub - Soil Samples Data",
+          "url": "https://opengeohub.github.io/SoilSamples/",
+          "description": "Collection of example soil sample  provided by OpenGeoHub, ideal for testing, training machine learning models, and soil data analysis projects.",
+          "tags": [
+            "OpenGeoHub",
+            "dataset"
+          ],
+          "download": 0,
+          "download_mode": "",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 6,
+          "title": "GeoPackage - Open Standard for Geospatial Data",
+          "url": "https://www.geopackage.org/",
+          "description": "Official website for the GeoPackage (GPKG) standard, a platform-independent, open format for geospatial data storage and transfer. Designed for lightweight, efficient use in GIS applications.",
+          "tags": [
+            "GeoPackage"
+          ],
+          "download": 0,
+          "download_mode": "Istant 📥",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 7,
+          "title": "WRB 2022 - Annex 1 Field Guide",
+          "url": "https://obrl-soil.github.io/wrbsoil2022/annex-01-field-guide.html",
+          "description": "Official Field Guide to World Reference Base (WRB) for Soil Resources 2022, Annex 1. Provides standardized instructions for describing soil profiles and properties in the field.",
+          "tags": [
+            "WRB 2022"
+          ],
+          "download": 0,
+          "download_mode": "",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 8,
+          "title": "WRB 2022 - FAO Official Portal",
+          "url": "https://www.fao.org/soils-portal/data-hub/soil-classification/world-reference-base/en/",
+          "description": "Official FAO portal for the World Reference Base for Soil Resources (WRB) 2022. Provides documentation, classification resources, and data related to global soil taxonomy standards.",
+          "tags": [
+            "WRB",
+            "FAO"
+          ],
+          "download": 0,
+          "download_mode": "",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 9,
+          "title": "WRB Documents - ISRIC World Soil Information",
+          "url": "https://wrb.isric.org/documents/",
+          "description": "Access the official documents, field guides, and resources for the World Reference Base for Soil Resources (WRB) provided by ISRIC. Includes classification keys, manuals, and annexes for soil surveys and global soil taxonomy.",
+          "tags": [
+            "WRB",
+            "ISRIC"
+          ],
+          "download": 0,
+          "download_mode": "",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 10,
+          "title": "WRB Fourth Edition 2022 (Corrected 2024)",
+          "url": "https://wrb.isric.org/files/WRB_fourth_edition_2022-12-18_errata_correction_2024-09-24.pdf",
+          "description": "Official corrected version (2024) of the World Reference Base for Soil Resources (WRB) Fourth Edition, the global standard for soil classification published by ISRIC.",
+          "tags": [
+            "WRB",
+            "ISRIC"
+          ],
+          "download": 1,
+          "download_mode": "PDF 📝",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 11,
+          "title": "FROST-Server - SensorThings API Server",
+          "url": "https://github.com/FraunhoferIOSB/FROST-Server",
+          "description": "Open-source implementation of the OGC SensorThings API by Fraunhofer IOSB, allowing seamless management of IoT sensor observations and spatial-temporal data.",
+          "tags": [
+            "IoT",
+            "API",
+            "OGC",
+            "SensorThings",
+            "Server",
+            "Open Source"
+          ],
+          "download": 1,
+          "download_mode": "GitHub 🌐",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 12,
+          "title": "INSPIRE Soil GeoPackage Template (EJP SOIL)",
+          "url": "https://github.com/ejpsoil/inspire_soil_gpkg_template/tree/main/Version1.1-RC",
+          "description": "Official GeoPackage (GPKG) template for encoding soil data following the INSPIRE directive, developed by the EJP SOIL project to facilitate standardized soil data sharing and interoperability.",
+          "tags": [
+            "CREA",
+            "INSPIRE",
+            "GeoPackage"
+          ],
+          "download": 1,
+          "download_mode": "GitHub 🌐",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 13,
+          "title": "Field Guide",
+          "url": "https://www.researchgate.net/profile/E-Costantini/publication/260065688_Guida_ALLA_Descrizione_DEI_Suoli_IN_Campagna/links/5418551e0cf203f155ada887/Guida-ALLA-Descrizione-DEI-Suoli-IN-Campagna.pdf",
+          "description": "Official Italian guide for soil description in the field, providing standardized methods for analyzing horizons, color, structure, texture, and other key pedological features.",
+          "tags": [
+            "CREA",
+            "Field Guide"
+          ],
+          "download": 1,
+          "download_mode": "PDF 📝",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 14,
+          "title": "Field Guide (Zenodo)",
+          "url": "https://zenodo.org/records/7589089",
+          "description": "Official Italian guide for soil description in the field, providing standardized methods for analyzing horizons, color, structure, texture, and other key pedological features.",
+          "tags": [
+            "WRB"
+          ],
+          "download": 1,
+          "download_mode": "ZIP 📦",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 15,
+          "title": "INSPIRE Registry - Official Reference Vocabularies",
+          "url": "https://inspire.ec.europa.eu/registry",
+          "description": "Central platform for accessing INSPIRE official reference vocabularies, code lists, schemas, and metadata used to harmonize spatial datasets across Europe.",
+          "tags": [
+            "INSPIRE",
+            "EU"
+          ],
+          "download": 0,
+          "download_mode": "",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 16,
+          "title": "EU Soil Monitoring Law - Pathway to Healthy Soils by 2050",
+          "url": "https://www.consilium.europa.eu/en/press/press-releases/2024/06/17/soil-monitoring-law-eu-on-the-pathway-to-healthy-soils-by-2050/",
+          "description": "Official EU initiative aiming to ensure all European soils are in healthy condition by 2050, with binding monitoring obligations and harmonized soil health indicators.",
+          "tags": [
+            "EU",
+            "Soil Monitoring Law"
+          ],
+          "download": 1,
+          "download_mode": "PDF 📝",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 17,
+          "title": "INSPIRE Data Specification on Soil - Technical Guidelines",
+          "url": "https://knowledge-base.inspire.ec.europa.eu/publications/inspire-data-specification-soil-technical-guidelines_en",
+          "description": "Official INSPIRE technical guidelines detailing how soil data should be structured, shared, and harmonized across the European Union to ensure interoperability.",
+          "tags": [
+            "INSPIRE",
+            "EU"
+          ],
+          "download": 1,
+          "download_mode": "PDF 📝",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 18,
+          "title": "INSPIRE Geoportal - Data Themes",
+          "url": "https://inspire-geoportal.ec.europa.eu/srv/eng/catalog.search#/datathemes",
+          "description": "The INSPIRE Geoportal provides access to spatial datasets and services across Europe, organized into thematic categories according to the INSPIRE Directive. Essential for discovering, viewing, and downloading standardized environmental data.",
+          "tags": [
+            "INSPIRE",
+            "Geoportal",
+            "EU"
+          ],
+          "download": 0,
+          "download_mode": "",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 19,
+          "title": "INSPIRE UML Models - Soil Theme",
+          "url": "https://inspire-mif.github.io/uml-models/approved/html/EARoot/EA2/EA3/EA17/EA1/EA9071.htm",
+          "description": "Official UML (Unified Modeling Language) representation for the INSPIRE Soil data theme. Provides detailed conceptual models for standardized soil data across Europe, ensuring interoperability and harmonization between datasets.",
+          "tags": [
+            "INSPIRE",
+            "UML",
+            "Data Model",
+            "EU"
+          ],
+          "download": 0,
+          "download_mode": "",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 20,
+          "title": "INSPIRE Maintenance and Implementation Framework (MIF) GitHub",
+          "url": "https://github.com/INSPIRE-MIF",
+          "description": "Official GitHub repository of the INSPIRE Maintenance and Implementation Framework (MIF). Provides open access to technical guidelines, UML models, schemas, tools, and documentation supporting the INSPIRE Directive for spatial data infrastructure across Europe.",
+          "tags": [
+            "INSPIRE",
+            "GitHub",
+            "EU"
+          ],
+          "download": 1,
+          "download_mode": "GitHub 🌐",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 21,
+          "title": "INSPIRE Knowledge Base",
+          "url": "https://knowledge-base.inspire.ec.europa.eu/index_en",
+          "description": "Official INSPIRE Knowledge Base providing access to technical documentation, data specifications, guidance documents, FAQs, and resources supporting the implementation of the INSPIRE Directive for spatial data infrastructures in Europe.",
+          "tags": [
+            "INSPIRE",
+            "EU"
+          ],
+          "download": 0,
+          "download_mode": "",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 22,
+          "title": "API4INSPIRE Project",
+          "url": "https://datacoveeu.github.io/API4INSPIRE/",
+          "description": "API4INSPIRE is a project aimed at modernizing access to INSPIRE data through APIs, enabling easier and more efficient discovery, access, and use of spatial datasets compliant with the INSPIRE Directive.",
+          "tags": [
+            "INSPIRE",
+            "API",
+            "EU"
+          ],
+          "download": 0,
+          "download_mode": "",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 23,
+          "title": "OGC SensorThings API Standard",
+          "url": "https://www.ogc.org/standards/sensorthings/",
+          "description": "The OGC SensorThings API is an open standard for connecting Internet of Things (IoT) devices, sensors, and data to the web, enabling the integration of geospatial and sensor information through standardized APIs.",
+          "tags": [
+            "OGC",
+            "SensorThingsAPI"
+          ],
+          "download": 0,
+          "download_mode": "",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 24,
+          "title": "ESDAC Soil Data and Maps",
+          "url": "https://esdac.jrc.ec.europa.eu/resource-type/soil-data-maps",
+          "description": "The European Soil Data Centre (ESDAC) provides access to a wide range of soil-related datasets, maps, indicators, and assessments for Europe, supporting soil research, environmental monitoring, and sustainable land management policies.",
+          "tags": [
+            "Maps",
+            "ESDAC"
+          ],
+          "download": 1,
+          "download_mode": "Istant 📥",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 26,
+          "title": "USDA Soil Texture Class Determination Method",
+          "url": "https://www.sciencedirect.com/science/article/abs/pii/S0016706103002234",
+          "description": "Scientific article discussing methods for determining soil texture classes based on sand, silt, and clay contents, with insights into laboratory and field techniques for soil classification according to USDA standards.",
+          "tags": [
+            "Soil Texture",
+            "USDA"
+          ],
+          "download": 1,
+          "download_mode": "PDF 📝",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 27,
+          "title": "Eurostat GISCO - Territorial Units for Statistics (NUTS)",
+          "url": "https://ec.europa.eu/eurostat/web/gisco/geodata/statistical-units/territorial-units-statistics",
+          "description": "Access to the NUTS (Nomenclature of Territorial Units for Statistics) datasets from Eurostat GISCO, providing standardized geospatial data on administrative and statistical boundaries across Europe.",
+          "tags": [
+            "NUTS",
+            "Administrative Boundaries"
+          ],
+          "download": 1,
+          "download_mode": "Istant 📥",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 28,
+          "title": "Registro Nazionale dei Geodati - CodeList",
+          "url": "https://registry.geodati.gov.it/codelist",
+          "description": "Il Registro Nazionale dei Geodati mette a disposizione le codelist ufficiali utilizzate per l'interscambio e la standardizzazione dei dati geospaziali in Italia, in linea con le specifiche INSPIRE.",
+          "tags": [
+            "CodeList",
+            "INSPIRE"
+          ],
+          "download": 0,
+          "download_mode": "",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 29,
+          "title": "INSPIRE WRB Qualifier Value Codelist",
+          "url": "https://inspire.ec.europa.eu/codelist/WRBQualifierValue",
+          "description": "This INSPIRE codelist provides standardized qualifiers based on the World Reference Base (WRB) for Soil Resources, used for describing soil characteristics within European spatial datasets.",
+          "tags": [
+            "INSPIRE",
+            "WRB",
+            "Codelist"
+          ],
+          "download": 0,
+          "download_mode": "",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 30,
+          "title": "ESDAC - Soil Contamination",
+          "url": "https://esdac.jrc.ec.europa.eu/themes/soil-contamination",
+          "description": "Explore soil contamination data and information from the European Soil Data Centre (ESDAC), including datasets on polluted sites, heavy metals, organic pollutants, and risk assessments supporting soil protection policies in Europe.",
+          "tags": [
+            "Soil Contamination",
+            "ESDAC"
+          ],
+          "download": 1,
+          "download_mode": "Istant 📥",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 31,
+          "title": "Soil Layers - Global Soil Maps",
+          "url": "https://soilmaps.wordpress.com/soil-layers/",
+          "description": "A collection of global soil datasets providing information on soil properties such as organic carbon, texture, bulk density, and depth. Useful for research, modeling, and sustainable land management practices.",
+          "tags": [
+            "Soil Maps"
+          ],
+          "download": 1,
+          "download_mode": "ZIP 📦",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 32,
+          "title": "ISPRA - Servizi Procedimenti WFS",
+          "url": "https://sinacloud.isprambiente.it/arcgisadv/rest/services/Hosted/servizi_procedimenti_WFS/FeatureServer",
+          "description": "FeatureServer WFS provided by ISPRA (Italian Institute for Environmental Protection and Research), offering access to spatial datasets related to environmental procedures and geographic information in Italy.",
+          "tags": [
+            "ISPRA",
+            "WFS",
+            "GIS",
+            "Environment",
+            "Italy"
+          ],
+          "download": 1,
+          "download_mode": "WFS 📦",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 33,
+          "title": "SPADE 14 - Soil Profiles Data",
+          "url": "https://esdac.jrc.ec.europa.eu/content/spade-14",
+          "description": "SPADE 14 is a harmonized database of georeferenced soil profiles across Europe, compiled by the European Soil Data Centre (ESDAC) to support soil-related research and environmental applications.",
+          "tags": [
+            "Soil Data",
+            "Soil Profiles",
+            "ESDAC",
+            "Europe",
+            "Environmental Research"
+          ],
+          "download": 1,
+          "download_mode": "PDF 📝",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 34,
+          "title": "Soil Organic Carbon Mapping - Cookbook - Global Soil Organic Carbon",
+          "url": "https://openknowledge.fao.org/server/api/core/bitstreams/5628102c-c895-416b-bbf2-728cadf3bc70/content",
+          "description": "creation and methodology of the GSOCmap (Global Soil Organic Carbon Map), the first global map of organic carbon deposits in soil (SOC).",
+          "tags": [
+            "R",
+            "Remote Sensing",
+            "FAO"
+          ],
+          "download": 1,
+          "download_mode": "PDF 📝",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 34,
+          "title": "SSSA - Get Your Stickers Here!🧡",
+          "url": "https://www.soils.org/stickers?q=stickers%2F",
+          "description": "Get your soil science stickers from the Soil Science Society of America (SSSA) and promote soil awareness!",
+          "tags": [
+            "Stickers",
+            "Soil Science",
+            "SSSA"
+          ],
+          "download": 1,
+          "download_mode": "PDF 📝",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 35,
+          "title": "Challenges of and opportunities for protecting European soil biodiversity",
+          "url": "https://conbio.onlinelibrary.wiley.com/doi/full/10.1111/cobi.13930",
+          "description": "Understanding nature conservation gaps related to soil biodiversity and ecosystem functions allows for more effective management and policy.",
+          "tags": [
+            "Article ",
+            "biodiversity"
+          ],
+          "download": 1,
+          "download_mode": "PDF 📝",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 36,
+          "title": "Soil Biodiversity and Ecosystem Functioning",
+          "url": "https://ec.europa.eu/newsroom/jrc/newsletter-archives/62453",
+          "description": "A comprehensive overview of the importance of soil biodiversity for ecosystem functioning and services, highlighting current research and policy implications.",
+          "tags": [
+            "Soil Biodiversity",
+            "Ecosystem Functioning",
+            "EU"
+          ],
+          "download": 1,
+          "download_mode": "PDF 📝",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 37,
+          "title": "COSMOS - Community for Soil Monitoring",
+          "url": "https://cosmos.ceh.ac.uk/",
+          "description": "A community platform for soil monitoring, providing access to soil data and resources.",
+          "tags": [
+            "Soil Monitoring",
+            "COSMOS",
+            "Community"
+          ],
+          "download": 0,
+          "download_mode": "",
+          "stato": [
+            "open"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dev",
+      "collection": "Dev",
+      "data": [
+        {
+          "id": 1,
+          "title": "AI in Agriculture - Precision Farming Techniques",
+          "url": "https://www.freecodecamp.org/news/ai-in-agriculture-book/#heading-chapter-1-precision-agriculture-techniques-and-benefits",
+          "description": "A free and detailed guide explaining how AI and machine learning are revolutionizing agriculture, with Python code examples for precision farming.",
+          "tags": [
+            "AI",
+            "Agriculture",
+            "Python",
+            "LLMs"
+          ],
+          "download": 0,
+          "download_mode": "",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 2,
+          "title": "Cybersecurity for Front-End Developers",
+          "url": "https://www.freecodecamp.org/news/cybersecurity-for-front-end-developers/",
+          "description": "A comprehensive guide on cybersecurity best practices for front-end developers.",
+          "tags": [
+            "Cybersecurity",
+            "Web Development"
+          ],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 3,
+          "title": "Three.js Journey",
+          "url": "https://threejs-journey.com/?c=p1#",
+          "description": "A comprehensive course on Three.js, covering the fundamentals and advanced topics.",
+          "tags": [
+            "Three.js",
+            "Web Development",
+            "3D"
+          ],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 4,
+          "title": "CSS Grid Generator",
+          "url": "https://cssgridgenerator.io/",
+          "description": "A tool for generating CSS Grid layouts.",
+          "tags": [
+            "CSS",
+            "Grid"
+          ],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 5,
+          "title": "Speed Up Website Loading",
+          "url": "https://www.freecodecamp.org/news/speed-up-website-loading/",
+          "description": "Tips and tricks to improve your website's loading speed.",
+          "tags": [
+            "WebDevelopment",
+            "FreeCodeCamp"
+          ],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 6,
+          "title": "LDRS - UI Ball",
+          "url": "https://uiball.com/ldrs/",
+          "description": "A collection of loading animations for web applications.",
+          "tags": [
+            "UI",
+            "WebDevelopment"
+          ],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 7,
+          "title": "Toggles",
+          "url": "https://toggles.dev/",
+          "description": "A tool for creating and managing toggle switches in web applications.",
+          "tags": [
+            "UI",
+            "WebDevelopment"
+          ],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 8,
+          "title": "Connect, Read, Process Sensor Data on Microcontrollers for Beginners",
+          "url": "https://www.freecodecamp.org/news/connect-read-process-sensor-data-on-microcontrollers-for-beginners/",
+          "description": "A beginner's guide to connecting and processing sensor data on microcontrollers.",
+          "tags": [
+            "Microcontrollers",
+            "Sensors",
+            "Data Processing"
+          ],
+          "download": 0,
+          "download_mode": "",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 9,
+          "title": "Pass the GitHub Actions Certification Exam",
+          "url": "https://www.freecodecamp.org/news/pass-the-github-actions-certification-exam/",
+          "description": "A guide to passing the GitHub Actions certification exam, including tips and resources.",
+          "tags": [
+            "GitHub",
+            "Actions",
+            "Certification"
+          ],
+          "download": 0,
+          "download_mode": "",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 10,
+          "title": "Pointblank - Data Validation",
+          "url": "https://posit-dev.github.io/pointblank/",
+          "description": "Pointblank is a powerful, yet elegant data validation framework for Python that transforms how you ensure data quality.",
+          "tags": [
+            "Python",
+            "Data Validation",
+            "Package"
+          ],
+          "download": 0,
+          "download_mode": "",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 11,
+          "title": "SVG Layer",
+          "url": "https://svgl.app/",
+          "description": "A tool for creating and managing SVG layers in web applications.",
+          "tags": [
+            "SVG",
+            "Web Development"
+          ],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 12,
+          "title": "Can I use",
+          "url": "https://caniuse.com/",
+          "description": "Check browser support for HTML5, CSS3, SVG and more.",
+          "tags": [
+            "Browser",
+            "Support",
+            "HTML5",
+            "CSS3",
+            "SVG"
+          ],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 13,
+          "title": "Developing RESTful APIs with Python Flask and Amazon DynamoDB",
+          "url": "https://codewithsibin.com/developing-restful-apis-with-python-flask-and-amazon-dynamodb-in-depth-guide/",
+          "description": "A comprehensive guide to building RESTful APIs using Python Flask and Amazon DynamoDB.",
+          "tags": [
+            "Python",
+            "Flask",
+            "DynamoDB",
+            "API"
+          ],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 14,
+          "title": "Master Multimodal Data Analysis with LLMs and Python",
+          "url": "https://www.freecodecamp.org/news/master-multimodal-data-analysis-with-llms-and-python/",
+          "description": "A comprehensive guide to mastering multimodal data analysis using large language models (LLMs) and Python.",
+          "tags": [
+            "LLMs",
+            "Data Analysis",
+            "Python"
+          ],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 15,
+          "title": "JSV9000",
+          "url": "https://www.jsv9000.app/",
+          "description": "A platform for exploring and visualizing JavaScript code.",
+          "tags": [
+            "JavaScript",
+            "Visualization"
+          ],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 16,
+          "title": "Frontend Mentor",
+          "url": "https://www.frontendmentor.io/?via=rammcodes",
+          "description": "A platform for practicing front-end coding skills.",
+          "tags": [
+            "Frontend",
+            "Mentorship"
+          ],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 17,
+          "title": "",
+          "url": "https://quickref.me/",
+          "description": "",
+          "tags": [
+            "Frontend",
+            "Mentorship"
+          ],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 18,
+          "title": "Mapscaping - Geo Hound für Chrome",
+          "url": "https://geoobserver.de/2025/04/09/mapscaping-geo-hound-fuer-chrome/",
+          "description": "A Chrome extension for enhanced geospatial data visualization.",
+          "tags": [
+            "Chrome",
+            "Geospatial",
+            "Visualization"
+          ],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 19,
+          "title": "Prismane",
+          "url": "https://www.prismane.io/",
+          "description": "A platform for exploring and visualizing geospatial data.",
+          "tags": [
+            "Geospatial",
+            "Visualization"
+          ],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 20,
+          "title": "YouTube Video - Geospatial Analysis",
+          "url": "https://www.youtube.com/watch?v=EFve2CFf9mA&list=PL_ITaxp1Ob4sZE7iJwjQT0KPSfP7kJNs9",
+          "description": "A video on geospatial analysis techniques.",
+          "tags": [
+            "YouTube",
+            "Geospatial"
+          ],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 21,
+          "title": "YouTube Playlist - Geospatial Analysis",
+          "url": "https://www.youtube.com/playlist?list=PL_ITaxp1Ob4vnrQius5voN7h5srvjudXz",
+          "description": "A playlist of videos on geospatial analysis techniques.",
+          "tags": [
+            "YouTube",
+            "Geospatial"
+          ],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 22,
+          "title": "GSAP",
+          "url": "https://gsap.com/",
+          "description": "The standard for JavaScript HTML5 animation.",
+          "tags": [
+            "JavaScript",
+            "Animation"
+          ],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 23,
+          "title": "Improve Your Data Science Skills",
+          "url": "https://www.freecodecamp.org/news/improve-your-data-science-skills-by-solving-kaggle-challenges/",
+          "description": "A guide to enhancing your data science skills through Kaggle challenges.",
+          "tags": [
+            "Data Science",
+            "Kaggle"
+          ],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 24,
+          "title": "Smooth UI",
+          "url": "https://smoothui.dev/",
+          "description": "A collection of smooth and beautiful UI components.",
+          "tags": [
+            "UI",
+            "Components"
+          ],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 25,
+          "title": "Learn to Use GitHub Actions - Step by Step Guide",
+          "url": "https://www.freecodecamp.org/news/learn-to-use-github-actions-step-by-step-guide/",
+          "description": "A comprehensive guide to understanding and using GitHub Actions.",
+          "tags": [
+            "GitHub",
+            "Actions",
+            "CI/CD"
+          ],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 26,
+          "title": "React Google Maps",
+          "url": "https://visgl.github.io/react-google-maps/",
+          "description": "A library for integrating Google Maps into React applications.",
+          "tags": [
+            "React",
+            "Google Maps"
+          ],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 27,
+          "title": "ECharts",
+          "url": "https://echarts.apache.org/en/index.html",
+          "description": "A powerful, interactive charting and visualization library for browser.",
+          "tags": [
+            "Visualization",
+            "Charts"
+          ],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 28,
+          "title": "GitHub Repository - Pressure",
+          "url": "https://github.com/stuyam/pressure",
+          "description": "A GitHub repository for the Pressure project.",
+          "tags": [
+            "GitHub",
+            "Pressure"
+          ],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 29,
+          "title": "How to Write Good API Docs",
+          "url": "https://www.freecodecamp.org/news/how-to-write-good-api-docs/",
+          "description": "A guide on writing effective API documentation.",
+          "tags": [
+            "API",
+            "Documentation"
+          ],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 30,
+          "title": "Build a Real-Time Intrusion Detection System with Python",
+          "url": "https://www.freecodecamp.org/news/build-a-real-time-intrusion-detection-system-with-python/",
+          "description": "A tutorial on building a real-time intrusion detection system using Python.",
+          "tags": [
+            "Python",
+            "Intrusion Detection"
+          ],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 31,
+          "title": "Gradient Editor",
+          "url": "https://www.gradientos.app/editor",
+          "description": "A web-based tool for creating and editing gradients.",
+          "tags": [
+            "Web",
+            "Design",
+            "Gradients"
+          ],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 32,
+          "title": "FreeCodeCamp LinkedIn Post",
+          "url": "https://www.linkedin.com/posts/free-code-camp_when-youre-building-a-website-youll-want-activity-7326818644250759168-G3Hy/?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "A LinkedIn post by freeCodeCamp.",
+          "tags": [
+            "LinkedIn",
+            "freeCodeCamp"
+          ],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 33,
+          "title": "YouTube Playlist - GeoServer",
+          "url": "https://www.youtube.com/playlist?list=PL_ITaxp1Ob4sjk24Stboa5XbO0LGdEKbL",
+          "description": "A playlist of GeoServer-related videos.",
+          "tags": [
+            "YouTube",
+            "GeoServer"
+          ],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 34,
+          "title": "LinkedIn Post - freeCodeCamp",
+          "url": "https://www.linkedin.com/posts/free-code-camp_these-days-applications-can-get-pretty-complex-activity-7327905862621061121-8L_N/?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "A LinkedIn post by freeCodeCamp.",
+          "tags": [
+            "LinkedIn",
+            "freeCodeCamp"
+          ],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 35,
+          "title": "Key Cybersecurity Concepts for Career Advancement",
+          "url": "https://www.freecodecamp.org/news/key-cybersecurity-concepts-for-career/",
+          "description": "A guide on key cybersecurity concepts for career advancement.",
+          "tags": [
+            "Cybersecurity",
+            "Career"
+          ],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 36,
+          "title": "Eruda",
+          "url": "https://github.com/liriliri/eruda",
+          "description": "Access browser devtools on your phone",
+          "tags": [
+            "GitHub",
+            "Eruda"
+          ],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 37,
+          "title": "Kaggle Solutions",
+          "url": "https://github.com/faridrashidi/kaggle-solutions",
+          "description": "It is an open collection on GitHub containing the techniques, strategies and winning codes of the best participants in Kaggle competitions",
+          "tags": [
+            "GitHub",
+            "Kaggle"
+          ],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 38,
+          "title": "Smooth UI",
+          "url": "https://smoothui.dev/",
+          "description": "A collection of smooth and beautiful UI components.",
+          "tags": [
+            "UI",
+            "Components"
+          ],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 39,
+          "title": "Beginner's Guide to Penetration Testing",
+          "url": "https://www.freecodecamp.org/news/beginners-guide-to-penetration-testing-cybersecurity/",
+          "description": "A comprehensive guide for beginners on penetration testing in cybersecurity.",
+          "tags": [
+            "Cybersecurity",
+            "Penetration Testing",
+            "Guide"
+          ],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 40,
+          "title": "Animated Icons",
+          "url": "https://animatedicons.co/icons/minimalistic",
+          "description": "A collection of animated icons for web applications.",
+          "tags": [
+            "Icons",
+            "Animation"
+          ],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 41,
+          "title": "Python Monkey Patching",
+          "url": "https://mjmjmj.name/python/monkey-patching-in-python-a-deep-dive/",
+          "description": "An in-depth exploration of monkey patching in Python.",
+          "tags": [
+            "Python",
+            "Monkey Patching"
+          ],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 42,
+          "title": "Python Monkey Patching",
+          "url": "https://www.freecodecamp.org/news/how-to-use-lazygit-to-improve-your-git-workflow/",
+          "description": "An in-depth exploration of monkey patching in Python.",
+          "tags": [
+            "Python",
+            "Monkey Patching"
+          ],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": [
+            "open"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AI",
+      "collection": "AI",
+      "data": [
+        {
+          "id": 1,
+          "title": "Generative AI for Everyone",
+          "url": "https://www.deeplearning.ai/courses/generative-ai-for-everyone/",
+          "description": "A course on Generative AI for everyone.",
+          "tags": [
+            "AI",
+            "Generative AI"
+          ],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 2,
+          "title": "Generative AI for Everyone - All Courses",
+          "url": "https://www.deeplearning.ai/courses/generative-ai-for-everyone/",
+          "description": "A course on Generative AI for everyone.",
+          "tags": [
+            "AI",
+            "Generative AI"
+          ],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 3,
+          "title": "Google Cloud",
+          "url": "https://www.cloudskillsboost.google/paths/118",
+          "description": "Beginner: Introduction to Generative AI Learning Path",
+          "tags": [
+            "AI",
+            "Generative AI"
+          ],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 4,
+          "title": "YouTube Video - AI",
+          "url": "https://www.youtube.com/watch?v=5NgNicANyqM",
+          "description": "freeCodeCamp",
+          "tags": [
+            "YouTube",
+            "freeCodeCamp"
+          ],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 5,
+          "title": "YouTube Channel - Andrej Karpathy",
+          "url": "https://www.youtube.com/@AndrejKarpathy",
+          "description": "Andrej Karpathy's YouTube channel.",
+          "tags": [
+            "YouTube",
+            "Andrej Karpathy"
+          ],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 6,
+          "title": "YouTube Channel - AI Explained",
+          "url": "https://www.youtube.com/@aiexplained-official",
+          "description": "AI Explained's YouTube channel.",
+          "tags": [
+            "YouTube",
+            "AI Explained"
+          ],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 7,
+          "title": "YouTube Channel - Two Minute Papers",
+          "url": "https://www.youtube.com/@TwoMinutePapers",
+          "description": "Two Minute Papers' YouTube channel.",
+          "tags": [
+            "YouTube",
+            "Two Minute Papers"
+          ],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 8,
+          "title": "YouTube Playlist - AI",
+          "url": "https://www.youtube.com/playlist?list=PL7x1PPPyq2gmX5wOgDSQnQl7MjgaZn4Xj",
+          "description": "A playlist of AI-related videos.",
+          "tags": [
+            "YouTube",
+            "AI"
+          ],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 9,
+          "title": "Substack - The Zvi",
+          "url": "https://thezvi.substack.com/",
+          "description": "The Zvi's Substack.",
+          "tags": [
+            "Substack",
+            "The Zvi"
+          ],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 10,
+          "title": "One Useful Thing",
+          "url": "https://www.oneusefulthing.org/",
+          "description": "A blog about useful things.",
+          "tags": [
+            "Blog",
+            "One Useful Thing"
+          ],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 11,
+          "title": "Data Pizza Newsletter",
+          "url": "https://datapizza.tech/it/#newsletter",
+          "description": "Stay updated with the latest news and insights.",
+          "tags": [
+            "Newsletter",
+            "Data Pizza"
+          ],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 12,
+          "title": "AI Supremacy",
+          "url": "https://www.ai-supremacy.com/",
+          "description": "A blog about AI and its implications.",
+          "tags": [
+            "Blog",
+            "AI Supremacy"
+          ],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 13,
+          "title": "Deep Learning Book",
+          "url": "https://www.deeplearningbook.org/",
+          "description": "The Deep Learning book by Ian Goodfellow, Yoshua Bengio, and Aaron Courville.",
+          "tags": [
+            "Book",
+            "Deep Learning"
+          ],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 14,
+          "title": "Deep Learning Cookbook",
+          "url": "https://github.com/andkret/Cookbook",
+          "description": "A collection of practical recipes for deep learning.",
+          "tags": [
+            "Book",
+            "Deep Learning",
+            "Cookbook"
+          ],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 15,
+          "title": "Dive into Deep Learning",
+          "url": "https://d2l.ai/",
+          "description": "An interactive deep learning book with code, math, and discussions.",
+          "tags": [
+            "Book",
+            "Deep Learning"
+          ],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 16,
+          "title": "Python Data Science Handbook",
+          "url": "https://jakevdp.github.io/PythonDataScienceHandbook/",
+          "description": "A comprehensive guide to data science in Python.",
+          "tags": [
+            "Book",
+            "Data Science",
+            "Python"
+          ],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 17,
+          "title": "From Maps to AI Agents: Build AI-Powered Applications",
+          "url": "https://www.youtube.com/playlist?list=PLxZevhetcP5xWyH5LOT4FXk1HLmW7X-5E",
+          "description": "A curated playlist of videos related to data science.",
+          "tags": [
+            "YouTube",
+            "Data Science"
+          ],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 18,
+          "title": "Geo Agentic Starter Kit",
+          "url": "https://github.com/GeoRetina/geo_agentic_starter_kit",
+          "description": "A starter kit for building geo-agentic applications.",
+          "tags": [
+            "GitHub",
+            "Geo",
+            "AI"
+          ],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 19,
+          "title": "Formulas HQ",
+          "url": "https://formulashq.com/",
+          "description": "A platform for sharing and discovering formulas.",
+          "tags": [
+            "Formulas",
+            "Math"
+          ],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 20,
+          "title": "Arcwise",
+          "url": "https://arcwise.app/",
+          "description": "A platform for creating and sharing geospatial applications.",
+          "tags": [
+            "Geospatial",
+            "Applications"
+          ],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 21,
+          "title": "ChatCSV",
+          "url": "https://www.chatcsv.co/",
+          "description": "A tool for converting chat messages into CSV format.",
+          "tags": [
+            "Chat",
+            "CSV"
+          ],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 22,
+          "title": "Numerous",
+          "url": "https://numerous.ai/",
+          "description": "A platform for data enrichment and analysis.",
+          "tags": [
+            "Data",
+            "AI"
+          ],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 23,
+          "title": "Rows",
+          "url": "https://rows.com/ai",
+          "description": "A platform for building and sharing AI applications.",
+          "tags": [
+            "AI",
+            "Applications"
+          ],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 24,
+          "title": "Genius Sheets",
+          "url": "https://www.geniussheets.us/",
+          "description": "A platform for creating and sharing spreadsheet templates.",
+          "tags": [
+            "Spreadsheets",
+            "Templates"
+          ],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 25,
+          "title": "Equals",
+          "url": "https://equals.com/",
+          "description": "A platform for creating and sharing geospatial applications.",
+          "tags": [
+            "Geospatial",
+            "Applications"
+          ],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 26,
+          "title": "ChartPixel",
+          "url": "https://www.chartpixel.com/",
+          "description": "A platform for creating and sharing chart visualizations.",
+          "tags": [
+            "Charts",
+            "Data Visualization"
+          ],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 27,
+          "title": "Julius",
+          "url": "https://julius.ai/",
+          "description": "A platform for creating and sharing AI applications.",
+          "tags": [
+            "AI",
+            "Applications"
+          ],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 28,
+          "title": "SheetAI",
+          "url": "https://www.sheetai.app/",
+          "description": "A platform for creating and sharing AI-powered spreadsheets.",
+          "tags": [
+            "AI",
+            "Spreadsheets"
+          ],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 29,
+          "title": "Tomat",
+          "url": "https://www.tomat.ai/",
+          "description": "A platform for creating and sharing AI-powered applications.",
+          "tags": [
+            "AI",
+            "Applications"
+          ],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 30,
+          "title": "Simple ML for Sheets",
+          "url": "https://simplemlforsheets.com/",
+          "description": "A platform for building and deploying machine learning models in Google Sheets.",
+          "tags": [
+            "Machine Learning",
+            "Google Sheets"
+          ],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 31,
+          "title": "Sheety",
+          "url": "https://sheety.co/",
+          "description": "A platform for turning spreadsheets into APIs.",
+          "tags": [
+            "APIs",
+            "Spreadsheets"
+          ],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 32,
+          "title": "AI Planet X",
+          "url": "https://www.aiplanetx.com/",
+          "description": "A platform for exploring AI applications in various domains.",
+          "tags": [
+            "AI",
+            "Applications"
+          ],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 33,
+          "title": "GeoGPT",
+          "url": "https://geogpt.zero2x.org/",
+          "description": "A platform for exploring geospatial data using AI.",
+          "tags": [
+            "AI",
+            "Geospatial"
+          ],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 34,
+          "title": "GeoScientist",
+          "url": "https://geoscientist.online/sections/viewpoint/geogpt-open-science-in-practice/",
+          "description": "A platform for exploring geospatial data using AI.",
+          "tags": [
+            "AI",
+            "Geospatial"
+          ],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 35,
+          "title": "Introduction to Generative AI - Google",
+          "url": "https://lnkd.in/duP5TMKc",
+          "description": "A foundational course by Google on generative artificial intelligence concepts and applications.",
+          "tags": [
+            "AI",
+            "Generative AI",
+            "Google"
+          ],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 36,
+          "title": "Prompt Engineering - Google",
+          "url": "https://lnkd.in/gHP244dD",
+          "description": "Learn prompt engineering techniques for generative AI with Google.",
+          "tags": [
+            "Prompt Engineering",
+            "AI",
+            "Google"
+          ],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 37,
+          "title": "Google AI Essentials",
+          "url": "https://lnkd.in/gg8iPamm",
+          "description": "Essential concepts and tools to understand and work with AI from Google.",
+          "tags": [
+            "AI",
+            "Essentials",
+            "Google"
+          ],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 38,
+          "title": "Crash Course on Python - Google",
+          "url": "https://lnkd.in/ddDNEUzD",
+          "description": "A beginner-level crash course by Google on Python programming.",
+          "tags": [
+            "Python",
+            "Programming",
+            "Google"
+          ],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 39,
+          "title": "Google Cloud Fundamentals",
+          "url": "https://lnkd.in/giiFcxUD",
+          "description": "Introduction to Google Cloud fundamentals and cloud computing basics.",
+          "tags": [
+            "Cloud",
+            "Google Cloud",
+            "Google"
+          ],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 40,
+          "title": "Google Data Analytics Certificate",
+          "url": "https://lnkd.in/dBJSct9d",
+          "description": "Professional certificate in data analytics by Google.",
+          "tags": [
+            "Data Analytics",
+            "Google",
+            "Certificate"
+          ],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 41,
+          "title": "Get Started with Python - Google",
+          "url": "https://lnkd.in/d7i5jKWu",
+          "description": "Google’s introductory course to Python for beginners.",
+          "tags": [
+            "Python",
+            "Google",
+            "Beginner"
+          ],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 42,
+          "title": "Google Cybersecurity Professional Certificate",
+          "url": "https://lnkd.in/gfjS9wmu",
+          "description": "Start your career in cybersecurity with Google’s professional certificate program.",
+          "tags": [
+            "Cybersecurity",
+            "Google",
+            "Certificate"
+          ],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 43,
+          "title": "AI for Everyone - DeepLearning AI",
+          "url": "https://lnkd.in/dtBGAp8A",
+          "description": "Non-technical introduction to AI, by Andrew Ng and DeepLearning.AI.",
+          "tags": [
+            "AI",
+            "DeepLearning AI",
+            "Andrew Ng"
+          ],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 44,
+          "title": "Become an AI Developer",
+          "url": "https://lnkd.in/dJT7Fv72",
+          "description": "A pathway to become an AI developer through curated resources and training.",
+          "tags": [
+            "AI",
+            "Developer",
+            "Training"
+          ],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 45,
+          "title": "Generative AI Automation",
+          "url": "https://lnkd.in/diij8aQW",
+          "description": "A course exploring how to automate workflows using generative AI.",
+          "tags": [
+            "AI",
+            "Automation",
+            "Generative AI"
+          ],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 46,
+          "title": "Free GenAI 65-Hour Bootcamp",
+          "url": "https://www.freecodecamp.org/news/free-genai-65-hour-bootcamp/",
+          "description": "A comprehensive bootcamp on Generative AI.",
+          "tags": [
+            "AI",
+            "Bootcamp",
+            "Free"
+          ],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 47,
+          "title": "Google Stitch",
+          "url": "https://stitch.withgoogle.com/",
+          "description": "Google Stitch: a platform for collaborative creation and sharing.",
+          "tags": [
+            "Google",
+            "Collaboration",
+            "Platform"
+          ],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 48,
+          "title": "PyCode-Agent 🐍🤖",
+          "url": "https://github.com/Divyansh900/PyCode-Agent",
+          "description": "A powerful Python coding assistant powered by Google's Gemini AI that can write, test, and execute Python code with integrated memory and tool support.",
+          "tags": [
+            "Google",
+            "Collaboration",
+            "Platform"
+          ],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": [
+            "open"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Nerdy",
+      "collection": "Nerdy",
+      "data": [
+        {
+          "id": 1,
+          "title": "An early warning system based on machine learning detects huge forest loss in Ukraine during the war",
+          "url": "https://hackertyper.com/",
+          "description": "look like a pro hacker with this fun tool that simulates typing code at high speed. Perfect for pranks or just for fun!",
+          "tags": [
+            "Hackertyper",
+            "fun",
+            "prank"
+          ],
+          "download": 0,
+          "download_mode": "",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 2,
+          "title": "Ninite - Install Multiple Apps",
+          "url": "https://ninite.com/",
+          "description": "Install multiple applications at once with Ninite, a simple tool that automates the installation process for popular software.",
+          "tags": [
+            "Ninite",
+            "Install",
+            "Automation"
+          ],
+          "download": 0,
+          "download_mode": "",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 3,
+          "title": "Similar Sites",
+          "url": "https://www.similarsites.com/",
+          "description": "Find websites similar to your favorite ones.",
+          "tags": [
+            "Similar Sites",
+            "Web"
+          ],
+          "download": 0,
+          "download_mode": "",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 4,
+          "title": "YouTube Shorts",
+          "url": "https://youtube.com/shorts/YCWredszNd4?si=zI-44wocPCI1aZhU",
+          "description": "flame that lasts over 100 hour",
+          "tags": [
+            "YouTube"
+          ],
+          "download": 0,
+          "download_mode": "",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 5,
+          "title": "Phase behavior of Cacio e Pepe sauce",
+          "url": "https://arxiv.org/pdf/2501.00536",
+          "description": "A research paper on advanced topics - ArXiv",
+          "tags": [
+            "Research",
+            "ArXiv"
+          ],
+          "download": 0,
+          "download_mode": "PDF 📝",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 6,
+          "title": "Web scraping with Python di Python Coding",
+          "url": "https://www.youtube.com/playlist?list=PLeLGx0BaYD6a82KAsIetU8Z61pCF6EWQ9",
+          "description": "A YouTube playlist on web scraping with Python, covering various techniques and libraries.",
+          "tags": [
+            "Python",
+            "Web Scraping",
+            "YouTube"
+          ],
+          "download": 0,
+          "download_mode": "",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 7,
+          "title": "How to Deploy a Web App",
+          "url": "https://www.freecodecamp.org/news/how-to-deploy-a-web-app/",
+          "description": "A comprehensive guide on deploying web applications.",
+          "tags": [
+            "Web Development",
+            "Deployment"
+          ],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 8,
+          "title": "Deep Dive into LLMs like ChatGPT",
+          "url": "https://www.youtube.com/watch?v=7xTGNNLPyMI",
+          "description": "An in-depth exploration of Large Language Models (LLMs) like ChatGPT, their architecture, and applications.",
+          "tags": [
+            "LLMs",
+            "ChatGPT",
+            "AI"
+          ],
+          "download": 0,
+          "download_mode": "",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 9,
+          "title": "WordGPT Pro",
+          "url": "https://wordgptpro.com/",
+          "description": "A powerful tool for generating text with AI.",
+          "tags": [
+            "WordGPT",
+            "AI",
+            "Text Generation"
+          ],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 10,
+          "title": "Free Deutsch Audio",
+          "url": "https://www.alphabeta.it/de/dialog-deutsch-199.html",
+          "description": "",
+          "tags": [
+            "varie"
+          ],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 11,
+          "title": "Create a Developer Portfolio as a 2D Game",
+          "url": "https://www.freecodecamp.org/news/create-a-developer-portfolio-as-a-2d-game/",
+          "description": "Learn how to create a developer portfolio by building a 2D game.",
+          "tags": [
+            "Web Development",
+            "Game Development",
+            "FreeCodeCamp"
+          ],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 12,
+          "title": "Claude - Code",
+          "url": "https://docs.anthropic.com/en/docs/claude-code/overview",
+          "description": "Documentation for Claude's code capabilities.",
+          "tags": [
+            "Claude",
+            "AI",
+            "Documentation"
+          ],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 13,
+          "title": "Learn Any Language with AI",
+          "url": "https://www.freecodecamp.org/news/learn-any-language-with-ai/",
+          "description": "A guide on how to use AI to learn any language effectively.",
+          "tags": [
+            "AI",
+            "Language Learning",
+            "FreeCodeCamp"
+          ],
+          "download": 0,
+          "download_mode": "",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 14,
+          "title": "OS.js - A JavaScript Cloud IDE",
+          "url": "https://www.os-js.org/",
+          "description": "OS.js is a JavaScript cloud IDE that allows you to create and manage your applications in the cloud.",
+          "tags": [
+            "OS.js",
+            "Cloud IDE",
+            "JavaScript"
+          ],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 15,
+          "title": "Easing Wizard",
+          "url": "https://easingwizard.com/",
+          "description": "A tool for creating CSS animations.",
+          "tags": [
+            "CSS",
+            "Animations"
+          ],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 16,
+          "title": "VS Code Themes",
+          "url": "https://vscodethemes.com/",
+          "description": "A collection of themes for Visual Studio Code.",
+          "tags": [
+            "VS Code",
+            "Themes"
+          ],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 17,
+          "title": "File Pizza",
+          "url": "https://file.pizza/",
+          "description": "A simple file sharing service.",
+          "tags": [
+            "File Sharing"
+          ],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 18,
+          "title": "Alternight",
+          "url": "https://spaceinvadev.github.io/alternight/",
+          "description": "A space-themed night mode for your browser.",
+          "tags": [
+            "Browser",
+            "Night Mode"
+          ],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 19,
+          "title": "Wikidata Vatican Cardinals",
+          "url": "https://github.com/CristianCantoro/wikidata-vatican-cardinals",
+          "description": "A project for exploring Vatican Cardinals data on Wikidata.",
+          "tags": [
+            "Wikidata",
+            "Vatican",
+            "Cardinals"
+          ],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 20,
+          "title": "FunkyLancers",
+          "url": "https://game.funkylancers.com/",
+          "description": "A fun and engaging game platform.",
+          "tags": [
+            "Gaming",
+            "Fun"
+          ],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 21,
+          "title": "Flipper Zero BadUSB - Flip Browser Data",
+          "url": "https://github.com/I-Am-Jakoby/Flipper-Zero-BadUSB/blob/main/Payloads/Flip-BrowserData/README.md",
+          "description": "A collection of BadUSB payloads for the Flipper Zero.",
+          "tags": [
+            "Flipper Zero",
+            "BadUSB"
+          ],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 22,
+          "title": " Limitless Ai",
+          "url": "https://www.youtube.com/watch?v=J2bb6wRcQiI",
+          "description": "A YouTube video related to the topic.",
+          "tags": [
+            "YouTube",
+            " Limitless Ai"
+          ],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 23,
+          "title": "Set Up a Home VPN Using Tailscale on a Raspberry Pi",
+          "url": "https://www.freecodecamp.org/news/set-up-a-home-vpn-using-tailscale-on-a-raspberry-pi/",
+          "description": "A guide on setting up a home VPN using Tailscale on a Raspberry Pi.",
+          "tags": [
+            "VPN",
+            "Raspberry Pi",
+            "Tailscale"
+          ],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": [
+            "open"
+          ]
+        },
+        {
+          "id": 24,
+          "title": "Self - AI-Powered Personal Assistant",
+          "url": "https://www.self.so/",
+          "description": "An AI-powered personal assistant that helps you manage your tasks and schedule.",
+          "tags": [
+            "AI",
+            "Personal Assistant"
+          ],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": [
+            "open"
+          ]
+        }
+      ]
+    }
+  ]
+}

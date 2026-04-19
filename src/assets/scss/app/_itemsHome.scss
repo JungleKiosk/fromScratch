@@ -1,0 +1,47 @@
+@use "../partials/_variables.scss" as *;
+
+
+.collection-card {
+  background-color: #f0f8ff;
+  border-radius: 12px;
+  transition: transform 0.2s ease, background-color 0.3s ease;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  cursor: pointer;
+
+  .items_links{
+    color: #003366;
+  }
+
+  &:hover {
+    transform: scale(1.05);
+    background-color: #daff75;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+  }
+
+/*  &:hover {
+    transform: scale(1.05);
+    background-color: #dbefff;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+  } */
+
+  h6 {
+    color: #003366;
+  }
+
+}
+
+.featured-resources{
+  background-color: #f0f8ff;
+  transition: transform 0.2s ease, background-color 0.3s ease;
+  cursor: pointer;
+
+  &:hover {
+    background-color: #dbefff;
+    transform: scale(1.05);
+  }
+
+  h5 {
+    color: #003366;
+  }
+
+}
