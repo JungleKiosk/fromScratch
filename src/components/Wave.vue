@@ -1,7 +1,7 @@
 <script>
 import python from "../assets/img/logo/py_logo.svg";
-import qgis from "../assets/img/logo/qgis.png";
-import gee from "../assets/img/logo/gee.svg";
+/* import qgis from "../assets/img/logo/qgis.png";
+import gee from "../assets/img/logo/gee.svg"; */
 import colab from "../assets/img/logo/colab.svg";
 import excel from "../assets/img/logo/excel.svg";
 import pdf from "../assets/img/logo/pdf.svg";
@@ -14,9 +14,9 @@ export default {
     name: "wave",
     data() {
         return {
-            images: [qgis, python, colab, gee, excel, json, pdf, vue, vitejs, js],
+            images: [python, colab, excel, json, pdf, vue, vitejs, js],
             currentIndex: 0,
-            currentImage: qgis
+            currentImage: python
         };
     },
     mounted() {

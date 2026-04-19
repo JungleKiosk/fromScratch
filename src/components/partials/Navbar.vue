@@ -37,16 +37,18 @@ export default {
   <nav class="navbar justify-content-center p-4">
     <ul>
       <li><router-link to="/">Home</router-link></li>
-      <li><router-link to="/tools">Tools</router-link></li>
+      <!--       <li><router-link to="/tools">Tools</router-link></li>
+ -->
       <li><router-link to="/links">Links</router-link></li>
-<!--       <li><router-link to="/dtm">dtm</router-link></li>
- -->      <li>
+      <!--       <li><router-link to="/dtm">dtm</router-link></li>
+ -->
+      <li>
         <!-- ✅ Bottone per cambiare tema -->
         <button @click="toggleTheme" class="btn_mood rounded-5">
-          {{ isDarkMode ? 'Dark' : 'Light' }}
+          <i :class="isDarkMode ? 'bi bi-moon-stars-fill' : 'bi bi-sun-fill'"></i>
         </button>
       </li>
-<!--       <li>
+      <!--       <li>
         <lang></lang>
       </li> -->
     </ul>
