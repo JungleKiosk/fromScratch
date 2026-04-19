@@ -23,17 +23,17 @@
         {
           "id": 2,
           "order": null,
-          "title": "GIT - Installation Guide",
-          "url": "https://git-scm.com/download/win",
-          "video": "https://www.youtube.com/watch?v=wDRoduig_98",
-          "description": "A guide on how to install Git on Windows.",
+          "title": "GIT - Pro Git book",
+          "url": "https://git-scm.com/book/en/v2",
+          "video": null,
+          "description": null,
           "tags": [
             "GIT"
           ],
-          "download": 0,
-          "download_mode": "",
+          "download": 1,
+          "download_mode": "PDF",
           "stato": [
-            "open"
+            "free"
           ]
         }
       ]
@@ -52,22 +52,6 @@
           "tags": [
             "VSC",
             "Editor"
-          ],
-          "download": 0,
-          "download_mode": "",
-          "stato": [
-            "open"
-          ]
-        },
-        {
-          "id": 2,
-          "order": null,
-          "title": "GIT - Installation Guide",
-          "url": "https://git-scm.com/download/win",
-          "video": "https://www.youtube.com/watch?v=wDRoduig_98",
-          "description": "A guide on how to install Git on Windows.",
-          "tags": [
-            "GIT"
           ],
           "download": 0,
           "download_mode": "",
