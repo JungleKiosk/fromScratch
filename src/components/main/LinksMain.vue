@@ -150,17 +150,9 @@ export default {
     <div class="container_filters_links">
       <div class="col-12 col-lg-10">
         <div class="flex-grow-1 d-flex">
-          <input
-            v-model="searchQuery"
-            @input="onSearchInput"
-            type="text"
-            class="form-control me-2"
-            placeholder="Search..."
-          />
-          <button
-            class="btn_all rounded-3 border-0 p-2 mx-2"
-            @click="resetAllFilters"
-          >
+          <input v-model="searchQuery" @input="onSearchInput" type="text" class="form-control me-2"
+            placeholder="Search..." />
+          <button class="btn_all rounded-3 border-0 p-2 mx-2" @click="resetAllFilters">
             All
           </button>
         </div>
@@ -168,13 +160,8 @@ export default {
         <div class="row mt-3">
           <div class="col-12 col-lg-4">
             <div class="form-check">
-              <input
-                type="checkbox"
-                id="download-only"
-                v-model="filterDownloadOnly"
-                @change="applyFilters"
-                class="form-check-input me-2"
-              />
+              <input type="checkbox" id="download-only" v-model="filterDownloadOnly" @change="applyFilters"
+                class="form-check-input me-2" />
               <label for="download-only" class="form-check-label">
                 Show Downloadable Only
               </label>
@@ -183,13 +170,8 @@ export default {
 
           <div class="col-12 col-lg-4 mt-2 mt-lg-0">
             <div class="form-check">
-              <input
-                type="checkbox"
-                id="study-path-only"
-                v-model="studyPathOnly"
-                @change="applyFilters"
-                class="form-check-input me-2"
-              />
+              <input type="checkbox" id="study-path-only" v-model="studyPathOnly" @change="applyFilters"
+                class="form-check-input me-2" />
               <label for="study-path-only" class="form-check-label">
                 Show Study Path Only
               </label>
@@ -200,14 +182,9 @@ export default {
         <div class="row mt-3">
           <div class="col-12 mx-1">
             <span class="me-2">Collections:</span>
-            <span
-              v-for="col in collections"
-              :key="col.name"
-              class="badge text-dark me-1 mb-1 collections"
-              :class="{ active: selectedCollection === col.name }"
-              style="cursor: pointer"
-              @click="toggleCollectionFilter(col.name)"
-            >
+            <span v-for="col in collections" :key="col.name" class="badge text-dark me-1 mb-1 collections"
+              :class="{ active: selectedCollection === col.name }" style="cursor: pointer"
+              @click="toggleCollectionFilter(col.name)">
               {{ col.name }}
             </span>
           </div>
@@ -216,14 +193,8 @@ export default {
         <div class="row mt-3">
           <div class="col-12 mx-1">
             <span class="me-2">Tags:</span>
-            <span
-              v-for="tag in allTags"
-              :key="tag"
-              class="badge text-dark me-1 mb-1 tags_filter"
-              :class="{ active: selectedTag === tag }"
-              style="cursor: pointer"
-              @click="filterByTag(tag)"
-            >
+            <span v-for="tag in allTags" :key="tag" class="badge text-dark me-1 mb-1 tags_filter"
+              :class="{ active: selectedTag === tag }" style="cursor: pointer" @click="filterByTag(tag)">
               {{ tag }}
             </span>
           </div>
@@ -236,11 +207,7 @@ export default {
         <h3 class="mb-3">{{ col.name }}</h3>
 
         <div class="row g-4">
-          <div
-            v-for="item in col.data"
-            :key="item.id"
-            class="col-12 col-md-6 col-lg-4"
-          >
+          <div v-for="item in col.data" :key="item.id" class="col-12 col-md-6 col-lg-4">
             <div class="card card_color h-100 shadow-sm">
               <div class="card-body d-flex flex-column">
                 <div class="row align-items-center">
@@ -250,8 +217,7 @@ export default {
                   <div class="col-4 text-end">
                     <span
                       v-if="item.order !== undefined && item.order !== null && item.order !== '' && item.order !== 'any'"
-                      class="step-badge"
-                    >
+                      class="step-badge">
                       Order: {{ item.order }}
                     </span>
                   </div>
@@ -274,33 +240,21 @@ export default {
                 </div>
 
                 <div class="mb-3">
-                  <span
-                    v-for="tag in item.tags"
-                    :key="tag"
-                    class="badge bg-info text-dark me-1"
-                  >
+                  <span v-for="tag in item.tags" :key="tag" class="badge bg-info text-dark me-1">
                     {{ tag }}
                   </span>
                 </div>
 
                 <div class="d-flex flex-wrap gap-2 mt-auto">
-                  <a
-                    v-if="item.url"
-                    :href="item.url"
-                    target="_blank"
-                    rel="noopener"
-                    class="btn btn_fr"
-                  >
-                    Guide
+                  <router-link v-if="item.page" :to="item.page" class="btn btn_page">
+                    Exercise Page
+                  </router-link>
+
+                  <a v-if="item.url" :href="item.url" target="_blank" rel="noopener" class="btn btn_fr">
+                    Link
                   </a>
 
-                  <a
-                    v-if="item.video"
-                    :href="item.video"
-                    target="_blank"
-                    rel="noopener"
-                    class="btn btn_video"
-                  >
+                  <a v-if="item.video" :href="item.video" target="_blank" rel="noopener" class="btn btn_video">
                     Video
                   </a>
                 </div>
@@ -340,6 +294,18 @@ export default {
   color: white;
 }
 
+.btn_page {
+  background: #059669;
+  color: white;
+  border: none;
+  text-decoration: none;
+}
+
+.btn_page:hover {
+  background: #047857;
+  color: white;
+}
+
 .tags_filter {
   background: #e5e7eb;
 }
@@ -360,11 +326,6 @@ export default {
 .collections.active {
   background: #111827;
   color: white !important;
-}
-
-.step-badge {
-  color: rgb(0, 0, 0);
-  font-weight: bold;
 }
 
 .card {

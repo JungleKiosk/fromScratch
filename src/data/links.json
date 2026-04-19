@@ -14,10 +14,10 @@
           "tags": [
             "GIT"
           ],
-          "download": 0,
-          "download_mode": "",
+          "download": 1,
+          "download_mode": "Installer",
           "stato": [
-            "open"
+            "free"
           ]
         },
         {
@@ -50,13 +50,52 @@
           "video": "https://youtu.be/zK1rKC7QVwk?si=LGVbjckwU9NZxeju",
           "description": "A guide on how to install Visual Studio Code on Windows.",
           "tags": [
-            "VSC",
-            "Editor"
+            "VSC"
           ],
-          "download": 0,
-          "download_mode": "",
+          "download": 1,
+          "download_mode": "Installer",
           "stato": [
-            "open"
+            "free"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Python",
+      "collection": "Python",
+      "data": [
+        {
+          "id": 1,
+          "order": 2,
+          "title": "Python - Installation Guide",
+          "url": "https://www.python.org/downloads/",
+          "video": "https://youtu.be/YYXdXT2l-GY?si=LGVbjckwU9NZxeju",
+          "description": "A guide on how to install Python on Windows.",
+          "tags": [
+            "Python"
+          ],
+          "download": 1,
+          "download_mode": "Installer",
+          "stato": [
+            "free"
+          ]
+        },
+        {
+          "id": 2,
+          "order": null,
+          "title": "Ex1: Number Analysis",
+          "page": "/ex1",
+          "pdf": "/pdfs/ex1-number-analysis.pdf",
+          "url": null,
+          "video": null,
+          "description": "Analyze numbers entered by the user using Python. Learn input handling, list conversion, and basic statistics.",
+          "tags": [
+            "Python"
+          ],
+          "download": 1,
+          "download_mode": "PDF",
+          "stato": [
+            "free"
           ]
         }
       ]

@@ -1,37 +1,29 @@
 import { createRouter, createWebHistory } from "vue-router";
+import HomeMain from "../components/main/HomeMain.vue";
+import LinksMain from "../components/main/LinksMain.vue";
+import ex1 from "../components/exercise/ex1.vue";
 
-import home from "../views/Home.vue";
-import tools from "../components/main/ToolsMain.vue";
-import links from "../components/main/LinksMain.vue";
-/* import dtm from "../views/dtm.vue";
- */
-const router = createRouter({
-  history: createWebHistory(import.meta.env.BASE_URL),
-  routes: [
-    {
-      path: "/",
-      name: "home",
-      component: home,
-    },
-    {
-      path: "/tools",
-      name: "tools",
-      component: tools,
-    },
-    {
-      path: "/links",
-      name: "links",
-      component: links,
-    }/* ,
-        {
-      path: "/dtm",
-      name: "dtm",
-      component: dtm,
-    }, */
-  ],
-  scrollBehavior(to, from, savedPosition) {
-    return { top: 0, behavior: 'instant' };
+const routes = [
+  {
+    path: "/",
+    name: "home",
+    component: HomeMain,
   },
+  {
+    path: "/links",
+    name: "links",
+    component: LinksMain,
+  },
+  {
+    path: "/ex1",
+    name: "ex1",
+    component: ex1,
+  },
+];
+
+const router = createRouter({
+  history: createWebHistory(),
+  routes,
 });
 
 export default router;
