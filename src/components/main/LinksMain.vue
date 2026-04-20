@@ -12,6 +12,7 @@ export default {
       selectedTag: "",
       filterDownloadOnly: false,
       studyPathOnly: false,
+      exercisePathOnly: false,
       searchTimeout: null,
       selectedCollection: "",
     };
@@ -44,6 +45,17 @@ export default {
     },
   },
   methods: {
+    normalizeExerciseOrderValue(order) {
+      if (
+        order === undefined ||
+        order === null ||
+        order === "" ||
+        order === "any"
+      ) {
+        return null;
+      }
+      return Number(order);
+    },
     onSearchInput() {
       clearTimeout(this.searchTimeout);
       this.searchTimeout = setTimeout(() => {
@@ -98,15 +110,22 @@ export default {
                 !this.filterDownloadOnly || item.download === 1;
 
               const normalizedOrder = this.normalizeOrderValue(item.order);
+              const normalizedExerciseOrder = this.normalizeExerciseOrderValue(
+                item.exercise_order
+              );
 
               const matchesStudyPath =
                 !this.studyPathOnly || normalizedOrder !== null;
+
+              const matchesExercisePath =
+                !this.exercisePathOnly || normalizedExerciseOrder !== null;
 
               return (
                 matchesSearch &&
                 matchesTag &&
                 matchesDownload &&
-                matchesStudyPath
+                matchesStudyPath &&
+                matchesExercisePath
               );
             })
             .sort((a, b) => {
@@ -129,18 +148,19 @@ export default {
       this.selectedTag = "";
       this.filterDownloadOnly = false;
       this.studyPathOnly = false;
+      this.exercisePathOnly = false;
       this.selectedCollection = "";
       this.$router.replace({ path: "/links" });
       this.applyFilters();
     },
-    toggleCollectionFilter(collectionName) {
-      if (this.selectedCollection === collectionName) {
-        this.selectedCollection = "";
-      } else {
-        this.selectedCollection = collectionName;
-      }
-      this.applyFilters();
-    },
+  },
+  toggleCollectionFilter(collectionName) {
+    if (this.selectedCollection === collectionName) {
+      this.selectedCollection = "";
+    } else {
+      this.selectedCollection = collectionName;
+    }
+    this.applyFilters();
   },
 };
 </script>
@@ -156,8 +176,34 @@ export default {
             All
           </button>
         </div>
+        <div class="filters-row d-flex flex-wrap align-items-center gap-3 mt-3">
 
-        <div class="row mt-3">
+          <div class="form-check form-check-inline">
+            <input type="checkbox" id="download-only" v-model="filterDownloadOnly" @change="applyFilters"
+              class="form-check-input" />
+            <label for="download-only" class="form-check-label">
+              Downloadable
+            </label>
+          </div>
+
+          <div class="form-check form-check-inline">
+            <input type="checkbox" id="study-path-only" v-model="studyPathOnly" @change="applyFilters"
+              class="form-check-input" />
+            <label for="study-path-only" class="form-check-label">
+              Study Path
+            </label>
+          </div>
+
+          <div class="form-check form-check-inline">
+            <input type="checkbox" id="exercise-path-only" v-model="exercisePathOnly" @change="applyFilters"
+              class="form-check-input" />
+            <label for="exercise-path-only" class="form-check-label">
+              Exercises
+            </label>
+          </div>
+
+        </div>
+        <!-- <div class="row mt-3">
           <div class="col-12 col-lg-4">
             <div class="form-check">
               <input type="checkbox" id="download-only" v-model="filterDownloadOnly" @change="applyFilters"
@@ -166,9 +212,6 @@ export default {
                 Show Downloadable Only
               </label>
             </div>
-          </div>
-
-          <div class="col-12 col-lg-4 mt-2 mt-lg-0">
             <div class="form-check">
               <input type="checkbox" id="study-path-only" v-model="studyPathOnly" @change="applyFilters"
                 class="form-check-input me-2" />
@@ -176,10 +219,21 @@ export default {
                 Show Study Path Only
               </label>
             </div>
+            <div class="form-check">
+              <input type="checkbox" id="exercise-path-only" v-model="exercisePathOnly" @change="applyFilters"
+                class="form-check-input me-2" />
+              <label for="exercise-path-only" class="form-check-label">
+                Show Exercise Path Only
+              </label>
+            </div>
           </div>
-        </div>
 
-        <div class="row mt-3">
+          <div class="col-12 col-lg-4 mt-2 mt-lg-0">
+
+          </div>
+        </div> -->
+
+        <!--         <div class="row mt-3">
           <div class="col-12 mx-1">
             <span class="me-2">Collections:</span>
             <span v-for="col in collections" :key="col.name" class="badge text-dark me-1 mb-1 collections"
@@ -188,7 +242,7 @@ export default {
               {{ col.name }}
             </span>
           </div>
-        </div>
+        </div> -->
 
         <div class="row mt-3">
           <div class="col-12 mx-1">
@@ -219,6 +273,11 @@ export default {
                       v-if="item.order !== undefined && item.order !== null && item.order !== '' && item.order !== 'any'"
                       class="step-badge">
                       Order: {{ item.order }}
+                    </span>
+                    <span
+                      v-if="item.exercise_order !== undefined && item.exercise_order !== null && item.exercise_order !== '' && item.exercise_order !== 'any'"
+                      class="step-badge">
+                      Ex: {{ item.exercise_order }}
                     </span>
                   </div>
                 </div>

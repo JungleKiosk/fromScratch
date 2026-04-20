@@ -7,6 +7,7 @@
         {
           "id": 1,
           "order": 1,
+          "exercise_order": null,
           "title": "GIT - Installation Guide",
           "url": "https://git-scm.com/download/win",
           "video": "https://www.youtube.com/watch?v=wDRoduig_98",
@@ -23,6 +24,7 @@
         {
           "id": 2,
           "order": null,
+          "exercise_order": null,
           "title": "GIT - Pro Git book",
           "url": "https://git-scm.com/book/en/v2",
           "video": null,
@@ -45,6 +47,7 @@
         {
           "id": 1,
           "order": 2,
+          "exercise_order": null,
           "title": "Visual Studio Code - Installation Guide",
           "url": "https://code.visualstudio.com/download",
           "video": "https://youtu.be/zK1rKC7QVwk?si=LGVbjckwU9NZxeju",
@@ -66,7 +69,8 @@
       "data": [
         {
           "id": 1,
-          "order": 2,
+          "order": 3,
+          "exercise_order": null,
           "title": "Python - Installation Guide",
           "url": "https://www.python.org/downloads/",
           "video": "https://youtu.be/YYXdXT2l-GY?si=LGVbjckwU9NZxeju",
@@ -83,6 +87,7 @@
         {
           "id": 2,
           "order": null,
+          "exercise_order": 1,
           "title": "Ex1: Number Analysis",
           "page": "/ex1",
           "pdf": "/pdfs/ex1-number-analysis.pdf",
