@@ -64,14 +64,60 @@
       ]
     },
     {
-      "name": "Python",
-      "collection": "Python",
+      "name": "Colab",
+      "collection": "Colab",
       "data": [
         {
           "id": 1,
           "order": 3,
           "exercise_order": null,
+          "title": "How to use Google Colab",
+          "page": null,
+          "pdf": null,
+          "url": "https://colab.research.google.com/",
+          "video": "https://youtu.be/fp-2xtbFRYo?si=Hl538GIPXwcXhC5R",
+          "description": "A guide on how to use Google Colab for Python programming.",
+          "tags": [
+            "Colab"
+          ],
+          "download": null,
+          "download_mode": null,
+          "stato": [
+            "free"
+          ]
+        },
+        {
+          "id": 1,
+          "order": null,
+          "exercise_order": 1,
+          "title": "Ex1: download dataset from Kaggle and import it in Colab to do some analysis",
+          "page": "/ex1_colab",
+          "pdf": null,
+          "url": "https://www.kaggle.com/datasets/jackdaoud/marketing-data/data",
+          "video": null,
+          "description": "Learn how to import a dataset from Kaggle into Google Colab. This exercise will guide you through the process of downloading a dataset and loading it into Colab for analysis.",
+          "tags": [
+            "Colab"
+          ],
+          "download": null,
+          "download_mode": null,
+          "stato": [
+            "free"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Python",
+      "collection": "Python",
+      "data": [
+        {
+          "id": 1,
+          "order": 4,
+          "exercise_order": null,
           "title": "Python - Installation Guide",
+          "page": null,
+          "pdf": null,
           "url": "https://www.python.org/downloads/",
           "video": "https://youtu.be/Qg05y10APwA?si=HLJTQjUIMgE42cmG",
           "description": "A guide on how to install Python on Windows.",
@@ -87,7 +133,7 @@
         {
           "id": 2,
           "order": null,
-          "exercise_order": 1,
+          "exercise_order": 2,
           "title": "Ex1: Number Analysis",
           "page": "/ex1",
           "pdf": "/pdfs/ex1-number-analysis.pdf",
