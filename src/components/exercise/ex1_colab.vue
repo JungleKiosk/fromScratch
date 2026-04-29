@@ -23,6 +23,7 @@
           <li>dataset and a PNG image that describes the meaning of the dataset variables.</li>
         </ul>
       </div>
+      <a style="text-decoration: none; color: black;" href="#code_colab">Go to code ⛵</a>  
     </section>
 
     <section class="intro-card">
@@ -126,11 +127,53 @@
       </div>
     </section>
 
+    <section id="code_colab" class="guide-section">
+      <div class="section-title">
+        <p class="eyebrow">Google Colab</p>
+        <h2>Python for Market Data Analysis</h2>
+        <p>
+          A beginner-friendly guide to start analyzing marketing and ecommerce datasets
+          with Google Colab, pandas and basic statistics.
+        </p>
+      </div>
+
+      <div class="guide-grid">
+        <article v-for="guide in colabGuide" :key="guide.title" class="guide-card">
+          <h3>{{ guide.title }}</h3>
+          <p v-if="guide.description">{{ guide.description }}</p>
+
+          <ul v-if="guide.items">
+            <li v-for="item in guide.items" :key="item">
+              {{ item }}
+            </li>
+          </ul>
+
+          <div v-if="guide.code" class="code-container">
+            <button class="copy-btn" @click="copyCode(guide.code)">
+              Copy
+            </button>
+
+            <pre>
+              <code>{{ guide.code }}</code>
+            </pre>
+          </div>
+        </article>
+      </div>
+    </section>
 
   </main>
 </template>
 
 <script setup>
+
+const copyCode = async (code) => {
+  try {
+    await navigator.clipboard.writeText(code)
+    alert("Code copied!")
+  } catch (err) {
+    console.error("Copy failed", err)
+  }
+}
 const sections = [
   {
     title: 'Economic / customer demographic variables',
@@ -303,9 +346,140 @@ const skills = [
   'basic machine learning',
   'CRM analysis'
 ]
+
+const colabGuide = [
+  {
+    title: "Upload a CSV file in Colab",
+code: `import pandas as pd
+              from google.colab import files
+
+              uploaded = files.upload()
+
+              df = pd.read_csv("your_file.csv")
+
+              df.head()`
+  },
+
+  {
+    title: "Upload an Excel file in Colab",
+    code: `import pandas as pd
+              from google.colab import files
+
+              uploaded = files.upload()
+
+              df = pd.read_excel("your_file.xlsx")
+
+              df.head()`
+  },
+
+  {
+    title: "Explore the dataset",
+    code: `df.head()
+              df.tail()
+              df.shape
+              df.info()`
+  },
+
+  {
+    title: "Basic statistics",
+    description:
+      "Example using a numeric column called Sales.",
+    code: `df["Sales"].mean()
+              df["Sales"].median()
+              df["Sales"].std()
+              df["Sales"].min()
+              df["Sales"].max()
+
+              df["Sales"].quantile(0.25)
+              df["Sales"].quantile(0.50)
+              df["Sales"].quantile(0.75)
+
+              df["Sales"].describe()`
+  },
+
+  {
+    title: "Simple market analysis",
+    code: `df.groupby("Category")["Sales"].sum()
+
+              df.groupby("Region")["Sales"].sum()
+
+              df.groupby("Product")["Sales"]
+                .sum()
+                .sort_values(ascending=False)`
+  },
+
+  {
+    title: "Basic chart",
+    code: `import matplotlib.pyplot as plt
+
+              df.groupby("Category")["Sales"].sum().plot(kind="bar")
+
+              plt.show()`
+  },
+
+  {
+    title: "Mini exercise",
+    description:
+      "Imagine you work for an ecommerce company. Try answering these questions:",
+    items: [
+      "Which category sells the most?",
+      "Which region generates the highest revenue?",
+      "What is the average order value?",
+      "Which products perform the worst?"
+    ]
+  },
+
+  {
+    title: "Simple roadmap",
+    items: [
+      "Week 1: import CSV/Excel, clean data, basic statistics",
+      "Week 2: filters, groupby, charts",
+      "Week 3: marketing KPIs and customer segmentation",
+      "Week 4: build a portfolio project and publish it on GitHub"
+    ]
+  }
+]
+
 </script>
 
 <style scoped>
+.code-container {
+  position: relative;
+  margin-top: 16px;
+}
+
+.copy-btn {
+  position: absolute;
+  top: 12px;
+  right: 12px;
+  background: #6c63ff;
+  color: white;
+  border: none;
+  padding: 8px 14px;
+  border-radius: 10px;
+  cursor: pointer;
+  font-size: 0.85rem;
+  font-weight: 600;
+  transition: 0.2s ease;
+  z-index: 2;
+}
+
+.copy-btn:hover {
+  background: #574bdb;
+}
+
+.code-container pre {
+  overflow-x: auto;
+  padding: 50px 16px 16px 16px;
+  border-radius: 16px;
+  background: #172033;
+}
+
+.code-container code {
+  color: #f7f8ff;
+  background: transparent;
+}
+
 .dataset-page {
   min-height: 100vh;
   padding: 32px;
@@ -511,6 +685,63 @@ pre code {
   .hero {
     min-height: auto;
     padding: 36px 24px;
+  }
+}
+
+.guide-section {
+  margin-top: 28px;
+  padding: 28px;
+  border-radius: 28px;
+  background: white;
+  box-shadow: 0 16px 40px rgba(23, 32, 51, 0.08);
+}
+
+.guide-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 18px;
+  margin-top: 22px;
+}
+
+.guide-card {
+  padding: 20px;
+  border-radius: 20px;
+  background: #fbfcff;
+  border: 1px solid #e7e9f0;
+}
+
+.guide-card h3 {
+  margin-top: 0;
+  color: #172033;
+}
+
+.guide-card p,
+.guide-card li {
+  color: #5b6475;
+  line-height: 1.6;
+}
+
+.guide-card ul {
+  padding-left: 20px;
+}
+
+.guide-card pre {
+  margin-top: 14px;
+  overflow-x: auto;
+  padding: 16px;
+  border-radius: 16px;
+  background: #172033;
+}
+
+.guide-card pre code {
+  padding: 0;
+  background: transparent;
+  color: #f7f8ff;
+}
+
+@media (max-width: 900px) {
+  .guide-grid {
+    grid-template-columns: 1fr;
   }
 }
 </style>
