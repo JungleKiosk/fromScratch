@@ -350,7 +350,9 @@ const skills = [
 const colabGuide = [
   {
     title: "Upload a CSV file in Colab",
-code: `import pandas as pd
+    description:
+      "This code imports pandas and opens a file uploader inside Google Colab. After uploading your CSV file, pandas reads it and stores it inside a dataframe called df.",
+    code: `import pandas as pd
               from google.colab import files
 
               uploaded = files.upload()
@@ -362,6 +364,8 @@ code: `import pandas as pd
 
   {
     title: "Upload an Excel file in Colab",
+    description:
+      "This works exactly like CSV upload, but here pandas reads an Excel file (.xlsx). Very common when companies export reports from Excel.",
     code: `import pandas as pd
               from google.colab import files
 
@@ -374,6 +378,8 @@ code: `import pandas as pd
 
   {
     title: "Explore the dataset",
+    description:
+      "Before doing analysis, you need to understand your dataset structure. These commands help you inspect rows, columns and data types.",
     code: `df.head()
               df.tail()
               df.shape
@@ -383,7 +389,7 @@ code: `import pandas as pd
   {
     title: "Basic statistics",
     description:
-      "Example using a numeric column called Sales.",
+      "These commands calculate basic descriptive statistics on a numeric column called Sales. This is usually your first step in exploratory data analysis.",
     code: `df["Sales"].mean()
               df["Sales"].median()
               df["Sales"].std()
@@ -399,6 +405,8 @@ code: `import pandas as pd
 
   {
     title: "Simple market analysis",
+    description:
+      "Here you start answering business questions. Groupby helps you aggregate sales by category, region or product.",
     code: `df.groupby("Category")["Sales"].sum()
 
               df.groupby("Region")["Sales"].sum()
@@ -410,6 +418,8 @@ code: `import pandas as pd
 
   {
     title: "Basic chart",
+    description:
+      "This creates a simple bar chart showing total sales by category. Data visualization helps communicate insights to managers or clients.",
     code: `import matplotlib.pyplot as plt
 
               df.groupby("Category")["Sales"].sum().plot(kind="bar")
@@ -420,7 +430,7 @@ code: `import pandas as pd
   {
     title: "Mini exercise",
     description:
-      "Imagine you work for an ecommerce company. Try answering these questions:",
+      "Imagine you work for an ecommerce company. Try answering these business questions using your dataset.",
     items: [
       "Which category sells the most?",
       "Which region generates the highest revenue?",
@@ -431,6 +441,8 @@ code: `import pandas as pd
 
   {
     title: "Simple roadmap",
+    description:
+      "A simple learning path to become more confident with market data analysis.",
     items: [
       "Week 1: import CSV/Excel, clean data, basic statistics",
       "Week 2: filters, groupby, charts",
